@@ -1,4 +1,6 @@
 <h2 align="center">Hi 👋! My name is Anamika kumari.<br>I'm a student at Birla Institute of technology, Mesra, Ranchi, Jharkhand.<br> From Patna, Bihar, India.</h2>
+
+###
 <p>@About me: </p>
 <p>• I'm Anamika Kumari, a dynamic student with a passion for quantitative economics and data science. </p>
 <p>• Currently, I'm on track to graduate with an I.M.Sc. in Quantitative Economics and Data Science from 
@@ -19,7 +21,8 @@
 <p>• I'm enthusiastic about leveraging my skills and knowledge to contribute meaningfully to any project 
  or team I'm a part of. With a proven track record of academic excellence and a passion for cutting- 
  edge technologies, I'm eager to embark on new challenges and make a positive impact.</p>
-
+ 
+###
 ###
 
 <div align="center">
