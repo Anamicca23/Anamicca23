@@ -1,4 +1,24 @@
 <h2 align="center">Hi 👋! My name is Anamika kumari.<br>I'm a student at Birla Institute of technology, Mesra, Ranchi, Jharkhand.<br> From Patna, Bihar, India.</h2>
+<p>@About me: 
+• I'm Anamika Kumari, a dynamic student with a passion for quantitative economics and data science. 
+• Currently, I'm on track to graduate with an I.M.Sc. in Quantitative Economics and Data Science from 
+ the esteemed Birla Institute of Technology, Mesra.
+• This program not only sharpened my technical skills but also introduced me to advanced tools such 
+ as Tableau, Power BI, and deepened my proficiency in Probability and Statistics.
+• I am a driven competitive programmer with a profound passion for machine learning and artificial 
+ intelligence. 
+• My technical prowess extends across various domains, including computer science fundamentals like 
+ DSA, DBMS, and OOPs. 
+• I've delved into the realms of Data Analysis and Visualization, harnessing tools like Tableau and a 
+ range of Python libraries. 
+• My experience also spans Python, C/C++, R, and SQL, all of which I've applied in a competitive 
+ programming environment.
+• In the realm of competitive coding, I've achieved Specialist status on Codeforces and attained a 3-star 
+ rating on Codechef. My accomplishments in various coding contests, including Leetcode, and my 
+ consistently high ratings underscore my ability to tackle complex problems effectively.
+• I'm enthusiastic about leveraging my skills and knowledge to contribute meaningfully to any project 
+ or team I'm a part of. With a proven track record of academic excellence and a passion for cutting- 
+ edge technologies, I'm eager to embark on new challenges and make a positive impact.</p>
 
 ###
 
