@@ -2,7 +2,7 @@
 
 ###
 
- <image align = "center" alt="Coding" src= "https://i.pinimg.com/originals/d8/fa/c1/d8fac1ad5425d8069a1b14c4b2dcdc75.gif">
+ <image align = "center" alt="Coding" width="900" src= "https://i.pinimg.com/originals/d8/fa/c1/d8fac1ad5425d8069a1b14c4b2dcdc75.gif">
   
 ###
 
