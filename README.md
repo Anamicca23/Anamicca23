@@ -45,7 +45,7 @@
 <p align="center">
   <h3 align="left">Anamika Kumari's Leetcode Stats: </h3>
   <a href="[https://leetcode.com/Anamicca](https://leetcode.com/Anamicca/)" target="_blank">
-    <img width=90% src="https://leetcode.card.workers.dev/?username=Anamicca&theme=dark&font=source_code_pro&extension=activity&border_radius=10"/>
+    <img width=100% src="https://leetcode.card.workers.dev/?username=Anamicca&theme=dark&font=source_code_pro&extension=activity&border_radius=10"/>
   </a>
 </p> 
 
