@@ -1,6 +1,12 @@
 <h2 align="center">Hi 👋! My name is Anamika kumari.<br>I'm a student at Birla Institute of technology, Mesra, Ranchi, Jharkhand.<br> From Patna, Bihar, India.</h2>
 
 ###
+
+ <image align = "center" alt="Coding" width="800" src= "https://i.pinimg.com/originals/d8/fa/c1/d8fac1ad5425d8069a1b14c4b2dcdc75.gif">
+  
+###
+
+###
 <p>@About me: </p>
 <p>• I'm Anamika Kumari, a dynamic student with a passion for quantitative economics and data science. </p>
 <p>• Currently, I'm on track to graduate with an I.M.Sc. in Quantitative Economics and Data Science from 
@@ -131,18 +137,6 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/anamicca23/anamicca23/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/anamicca">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
 
