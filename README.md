@@ -54,8 +54,8 @@
 
 <h3 align="left"><b>&#128200; Competitive Programming</b></h3>
 <p float="left">
-<img height="380em" src="https://leetcard.jacoblin.cool/Anamicca?theme=dark&font=Karma&ext=contest" />
-<img height="380em" src="https://codeforces-readme-stats.vercel.app/api/card?username=anamicca2221" />
+<img height="250em" src="https://leetcard.jacoblin.cool/Anamicca?theme=dark&font=Karma&ext=contest" />
+<img height="250em" src="https://codeforces-readme-stats.vercel.app/api/card?username=anamicca2221" />
 </p>
 
 ###
