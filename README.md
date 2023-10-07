@@ -2,13 +2,13 @@
 
 ###
 
- <image align = "right" alt="Coding" width="400" src= "https://i.pinimg.com/originals/d8/fa/c1/d8fac1ad5425d8069a1b14c4b2dcdc75.gif">
+ <image align = "right" alt="Coding" width="700" height="600" src= "https://i.pinimg.com/originals/d8/fa/c1/d8fac1ad5425d8069a1b14c4b2dcdc75.gif">
   
 ###
 
 ###
 <div>
-<h3 align="center">@About me: </h3>
+<h3 align="left">@About me: </h3>
 <p>• I'm Anamika Kumari, a dynamic student with a passion for quantitative economics and data science. </p>
 <p>• Currently, I'm on track to graduate with an I.M.Sc. in Quantitative Economics and Data Science from 
  the esteemed Birla Institute of Technology, Mesra.</p>
