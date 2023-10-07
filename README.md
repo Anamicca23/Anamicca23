@@ -123,7 +123,7 @@
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
   <a href="https://www.Codeforces.com/Anamicca2221" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codeforces&logo=Codeforces&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Codeforces logo"  />
+    <img src="https://img.shields.io/static/v1?message=Codeforces&logo=Codeforces&label=&color=C2E5D3&logoColor=Red&labelColor=&style=for-the-badge" height="35" alt="Codeforces logo"  />
   </a>
 </div>
 
