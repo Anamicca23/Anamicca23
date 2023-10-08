@@ -303,6 +303,7 @@
 ###
 <div align="left">
   <h3 align="left">My Social Links:</h3>
+  <img src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png" align="right" />
   <img src="https://user-images.githubusercontent.com/74038190/212259438-449eca8d-1a7f-4d7d-8d47-5b918c481b6a.png" align="right" width="200"/>
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <a href="https://www.instagram.com/anamicca5/" target="_blank">
