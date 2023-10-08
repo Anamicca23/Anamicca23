@@ -1,9 +1,10 @@
+
 <h2 align="center">Hi 👋! My name is Anamika kumari.<br>I'm a student at Birla Institute of technology, Mesra, Ranchi, Jharkhand.<br> From Patna, Bihar, India.</h2>
 
 ###
 
- <image align = "center" alt="Coding" width="900" src= "https://scitechdaily.com/images/AI-Technology-Creation-Concept.gif">
-
+  <image align = "center"  width="900" src= "https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif">
+   
 ###
   
 ###
@@ -31,6 +32,10 @@
  or team I'm a part of. With a proven track record of academic excellence and a passion for cutting- 
  edge technologies, I'm eager to embark on new challenges and make a positive impact.</p>
 </div>
+   
+###
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000" align="center" />
 
 ###
 ###
@@ -58,6 +63,7 @@
 <p float="left">
 <img height="250em" src="https://leetcard.jacoblin.cool/Anamicca?theme=dark&font=Karma&ext=contest" />
 <img height="250em" src="https://codeforces-readme-stats.vercel.app/api/card?username=anamicca2221" />
+<img src="https://user-images.githubusercontent.com/74038190/240825379-0db32290-c193-4b32-95dc-413ce9e446a5.gif"  width="280" />
 </p>
 
 ###
@@ -327,7 +333,7 @@
 
 ###
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/poojapatelusa22"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="poojapatelusa22" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/poojapatelusa22"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="poojapatelusa22" /><img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="60" align="left" /></a></p><br><br>
 
 ###
 <div align="center">
