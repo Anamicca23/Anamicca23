@@ -61,9 +61,9 @@
 
 <h3 align="left"><b>&#128200; Competitive Programming</b></h3>
 <p float="left">
-<img height="250em" src="https://leetcard.jacoblin.cool/Anamicca?theme=dark&font=Karma&ext=contest" />
-<img height="250em" src="https://codeforces-readme-stats.vercel.app/api/card?username=anamicca2221" />
-<img src="https://user-images.githubusercontent.com/74038190/240825379-0db32290-c193-4b32-95dc-413ce9e446a5.gif"  width="280" />
+<img height="210em" src="https://leetcard.jacoblin.cool/Anamicca?theme=dark&font=Karma&ext=contest" />
+<img height="200em" src="https://codeforces-readme-stats.vercel.app/api/card?username=anamicca2221" />
+<img src="https://user-images.githubusercontent.com/74038190/240825379-0db32290-c193-4b32-95dc-413ce9e446a5.gif"  width="240" />
 </p>
 
 ###
