@@ -2,7 +2,7 @@
 
 ###
 
- <image align = "center" alt="Coding" width="900" src= "https://i.pinimg.com/originals/d8/fa/c1/d8fac1ad5425d8069a1b14c4b2dcdc75.gif">
+ <image align = "center" alt="Coding" width="900" src= "https://scitechdaily.com/images/AI-Technology-Creation-Concept.gif">
 
 ###
   
@@ -62,7 +62,7 @@
 
 ###
 
-<img align="right" height="130" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="130" src="https://wp.technologyreview.com/wp-content/uploads/2021/09/astro_media_animation-gif_01a.gif"  />
 
 ###
 
