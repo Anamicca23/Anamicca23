@@ -25,9 +25,11 @@
  range of Python libraries. </p>
 <p>• My experience also spans Python, C/C++, R, and SQL, all of which I've applied in a competitive 
  programming environment.</p>
-<p>• In the realm of competitive coding, I've achieved Specialist status on Codeforces and attained a 3-star 
- rating on Codechef. My accomplishments in various coding contests, including Leetcode, and my 
- consistently high ratings underscore my ability to tackle complex problems effectively.</p>
+<p>• In the realm of competitive coding, I've achieved <br>
+<img src="https://codeforces-readme-stats.vercel.app/api/badge?username=anamicca2221"/><br>
+<img src="https://cp-logo.vercel.app/codechef/anamikaaca0306"/><br>
+
+</p>
 <p>• I'm enthusiastic about leveraging my skills and knowledge to contribute meaningfully to any project 
  or team I'm a part of. With a proven track record of academic excellence and a passion for cutting- 
  edge technologies, I'm eager to embark on new challenges and make a positive impact.</p>
@@ -61,6 +63,7 @@
 <p float="left">
 <img height="210em" src="https://leetcard.jacoblin.cool/Anamicca?theme=dark&font=Karma&ext=contest" />
 <img height="200em" src="https://codeforces-readme-stats.vercel.app/api/card?username=anamicca2221" />
+<img height="200em" src="https://coding-profile.vercel.app/api/check?username=anamikaaca0306&theme=dark"/>
 <img src="https://i.pinimg.com/originals/44/c8/ad/44c8ad7650f62e33da2aeb998d05de83.gif"  width="240" align="right"/>
 </p>
 
