@@ -11,7 +11,7 @@
 
 <div>
 <h3 align="left">@About me: </h3>
-  <image align = "right" width="400" src= "https://cdn.pixabay.com/animation/2023/04/12/11/30/11-30-44-914_512.gif">
+  <image align = "right" width="400" src= "https://i.pinimg.com/originals/04/e0/39/04e0395a7c5a986aa80990a4636bd7c4.gif">
 <p>• I'm Anamika Kumari, a dynamic student with a passion for quantitative economics and data science. </p>
 <p>• Currently, I'm on track to graduate with an I.M.Sc. in Quantitative Economics and Data Science from 
  the esteemed Birla Institute of Technology, Mesra.</p>
