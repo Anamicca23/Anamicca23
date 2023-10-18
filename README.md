@@ -35,7 +35,7 @@
 <p>• In the realm of competitive coding, I've achieved <br>
 <b> - Specialist- Codeforces</b> <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=anamicca2221"/><br>
 <b> - 3* Coder -  Codechef</b> <img src="https://cp-logo.vercel.app/codechef/anamikaaca0306"/><br>
-<b> - Knight -  Leetcode</b> <img src="https://img.shields.io/static/v1?message=Leetcode|1923&logo=leetcode&label=&color=454545&logoColor=Yellow&labelColor=&style=for-the-badge" height="22" alt="leetcode logo"  /></br>
+<b> - Knight -  Leetcode</b> <img src="https://img.shields.io/static/v1?message=1923&logo=leetcode&label=Leetcode&color=4CC552&logoColor=Yellow&labelColor=454545&style=for-the-badge" height="22" alt="leetcode logo"  /></br>
 </p>
 <p>• I'm enthusiastic about leveraging my skills and knowledge to contribute meaningfully to any project 
  or team I'm a part of. With a proven track record of academic excellence and a passion for cutting- 
@@ -68,9 +68,9 @@
 
 <h3 align="left"><b>&#128200; Competitive Programming</b></h3>
 <p float="left">
-<img height="210em" src="https://leetcard.jacoblin.cool/Anamicca?theme=dark&font=Karma&ext=contest" />
+<img height="210em" src="https://leetcard.jacoblin.cool/Anamicca?theme=light&font=Karma&ext=contest" />
 <img height="200em" src="https://codeforces-readme-stats.vercel.app/api/card?username=anamicca2221" />
-<img height="200em" src="https://coding-profile.vercel.app/api/check?username=anamikaaca0306&theme=dark"/>
+<img height="200em" src="https://coding-profile.vercel.app/api/check?username=anamikaaca0306&theme=light"/>
 <img src="https://i.pinimg.com/originals/44/c8/ad/44c8ad7650f62e33da2aeb998d05de83.gif"  width="240" align="right"/>
 </p>
 
@@ -319,7 +319,7 @@
 <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=F6BE00&logoColor=Yellow&labelColor=000000&style=for-the-badge" height="35" alt="leetcode logo"  />
   </a>
  <a href="https://www.codechef.com/users/anamikaaca0306" target="_blank">
-<img src="https://img.shields.io/static/v1?message=Codechef&logo=Codechef&label=&color=3F000F&logoColor=Yellow&labelColor=2F0909&style=for-the-badge" height="35" alt="leetcode logo"  />
+<img src="https://img.shields.io/static/v1?message=Codechef&logo=Codechef&label=&color=2F0909&logoColor=Yellow&labelColor=000000&style=for-the-badge" height="35" alt="leetcode logo"  />
   </a>
    <a href="https://www.hackerrank.com/Anamikaaca0306" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=228B22&logoColor=white&labelColor=00FF00&style=for-the-badge" height="35" alt="hackerrank logo"  />
