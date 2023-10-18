@@ -3,6 +3,13 @@
 
 ###
 
+[![](https://img.shields.io/badge/📄resume-gray?&style=for-the-badge)](https://knlnks.github.io/resume/.pdf)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anamika-k-93877323a/)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anamikaaca0306@gmail.com)
+[![](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.com/channels/@me)
+[![](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/anamicca5/)
+###
+
   <image align = "center"  width="900" src= "https://i.pinimg.com/originals/19/c9/e3/19c9e3184c7783ab99fd11af529711c5.gif">
    
 ###
@@ -12,9 +19,9 @@
 <div>
 <h3 align="left">@About me: </h3>
   <image align = "right" width="400" src= "https://i.pinimg.com/originals/04/e0/39/04e0395a7c5a986aa80990a4636bd7c4.gif">
-<p>• I'm Anamika Kumari, a dynamic student with a passion for quantitative economics and data science. </p>
-<p>• Currently, I'm on track to graduate with an I.M.Sc. in Quantitative Economics and Data Science from 
- the esteemed Birla Institute of Technology, Mesra.</p>
+<p>• I'm <b>Anamika Kumari</b>, a dynamic student with a passion for quantitative economics and data science. </p>
+<p>• Currently, I'm on track to graduate with an <b>I.M.Sc.</b> in <b>Quantitative Economics and Data Science</b> from 
+ the esteemed <b>Birla Institute of Technology, Mesra</b>.</p>
 <p>• This program not only sharpened my technical skills but also introduced me to advanced tools such 
  as Tableau, Power BI, and deepened my proficiency in Probability and Statistics.</p>
 <p>• I am a driven competitive programmer with a profound passion for machine learning and artificial 
@@ -26,9 +33,9 @@
 <p>• My experience also spans Python, C/C++, R, and SQL, all of which I've applied in a competitive 
  programming environment.</p>
 <p>• In the realm of competitive coding, I've achieved <br>
-<img src="https://codeforces-readme-stats.vercel.app/api/badge?username=anamicca2221"/><br>
-<img src="https://cp-logo.vercel.app/codechef/anamikaaca0306"/><br>
-
+<b> - Specialist- Codeforces</b> <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=anamicca2221"/><br>
+<b> - 3* Coder -  Codechef</b> <img src="https://cp-logo.vercel.app/codechef/anamikaaca0306"/><br>
+<b> - Knight -  Leetcode</b> <img src="https://img.shields.io/static/v1?message=Leetcode|1923&logo=leetcode&label=&color=454545&logoColor=Yellow&labelColor=&style=for-the-badge" height="22" alt="leetcode logo"  /></br>
 </p>
 <p>• I'm enthusiastic about leveraging my skills and knowledge to contribute meaningfully to any project 
  or team I'm a part of. With a proven track record of academic excellence and a passion for cutting- 
@@ -307,6 +314,12 @@
    <img src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png" align="right" />
   <a href="https://codeforces.com/profile/anamicca2221" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codeforces&logo=Codeforces&label=&color=FF0000&logoColor=Red&labelColor=FFD700&style=for-the-badge" height="35" alt="Codeforces logo"  />
+  </a>
+  <a href="https://leetcode.com/Anamicca/" target="_blank">
+<img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=F6BE00&logoColor=Yellow&labelColor=000000&style=for-the-badge" height="35" alt="leetcode logo"  />
+  </a>
+ <a href="https://www.codechef.com/users/anamikaaca0306" target="_blank">
+<img src="https://img.shields.io/static/v1?message=Codechef&logo=Codechef&label=&color=3F000F&logoColor=Yellow&labelColor=2F0909&style=for-the-badge" height="35" alt="leetcode logo"  />
   </a>
    <a href="https://www.hackerrank.com/Anamikaaca0306" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=228B22&logoColor=white&labelColor=00FF00&style=for-the-badge" height="35" alt="hackerrank logo"  />
