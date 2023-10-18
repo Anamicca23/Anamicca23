@@ -329,27 +329,24 @@
   </a>
    <h3 align="left">My Social Links:</h3>
   <img src="https://user-images.githubusercontent.com/74038190/212259438-449eca8d-1a7f-4d7d-8d47-5b918c481b6a.png" align="right" width="200"/>
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <a href="https://www.instagram.com/anamicca5/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <a href="https://discord.com/channels/anamicca56" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="anamikaaca0306@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/anamika-k-93877323a/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+  <a href="https://www.linkedin.com/in/anamika-k-93877323a/"><img src="https://i.pinimg.com/564x/03/5a/6b/035a6be81e71b377dcebdc6c6b9b84d9.jpg" width="45" /></a>
+<a href="https://www.youtube.com/channel/UC_amoXmmxSY9oDczDTXQ"><img src="https://i.pinimg.com/564x/c7/b3/f0/c7b3f0f21a1407791cfe955d1913bddb.jpg" width="50" /></a>
+<a href="https://www.patreon.com/"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/patreon_logo.png" width="65" /></a>
+<a href="https://github.com/anamicca23"><img src="https://i.pinimg.com/564x/d0/f8/9d/d0f89dd9104622ce3338e621607cd608.jpg" width="55" /></a>
+<a href="https://www.facebook.com/Anamiccachauhan.anu/"><img src="https://i.pinimg.com/564x/23/40/ec/2340ec0a8ebf7497282a12adba927fde.jpg" width="45" /></a>
+<a href="mailto:anamikaaca0306@gmail.com"><img src="https://i.pinimg.com/564x/21/f7/ca/21f7ca8b9f5ccf898c31878e038c1a73.jpg" width="45" /></a>
+<a href="https://twitter.com/Anamika_bit5/"><img src="https://i.pinimg.com/564x/21/ac/93/21ac93a3e0fd2481a2aedb75f2bee2dd.jpg" width="45" /></a>
+<a href="https://www.instagram.com/anamicca5"><img src="https://i.pinimg.com/564x/a1/94/12/a194127f5e5c285a2734c775f4a15395.jpg" width="45" /></a>
+<a href="https://discord.com/channels/anamicca56"><img src="https://i.pinimg.com/564x/b3/13/47/b31347b278bbb17f349eb4523fe16501.jpg" width="50" /></a>
+<a href="https://t.me/Anamicca_aca"><img src="https://i.pinimg.com/564x/e3/b7/38/e3b73816fdd89fe8e0c7be72888ed719.jpg" width="50" /></a>
+<a href="https://wa.me/+916207870288"><img src="https://i.pinimg.com/564x/35/50/20/35502083f7c1a5f666621e864ac04b9d.jpg" width="50"/></a>
 </div>
 
 ###
 
 ###
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/poojapatelusa22"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="poojapatelusa22" /><img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="60" align="left" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/Anamicca23"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Anamicca23" /><img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="60" align="left" /></a></p><br><br>
 
 ###
 <div align="center">
