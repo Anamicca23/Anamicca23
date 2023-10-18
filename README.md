@@ -61,7 +61,7 @@
 <p float="left">
 <img height="210em" src="https://leetcard.jacoblin.cool/Anamicca?theme=dark&font=Karma&ext=contest" />
 <img height="200em" src="https://codeforces-readme-stats.vercel.app/api/card?username=anamicca2221" />
-<img src="https://user-images.githubusercontent.com/74038190/240825379-0db32290-c193-4b32-95dc-413ce9e446a5.gif"  width="240" />
+<img src="https://i.pinimg.com/originals/44/c8/ad/44c8ad7650f62e33da2aeb998d05de83.gif"  width="240" align="right"/>
 </p>
 
 ###
