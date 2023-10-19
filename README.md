@@ -51,7 +51,7 @@
  <h3 align="left">Anamika Kumari's Github Stats: </h3>
   <img src="https://github-readme-stats.vercel.app/api?username=anamicca23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false" height="140" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=anamicca23&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=50" height="140" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anamicca23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=aura&hide_border=false" height="140" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anamicca23&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=10&theme=aura&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
