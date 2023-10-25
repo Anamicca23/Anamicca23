@@ -346,7 +346,7 @@
 
 ###
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Anamicca23"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Anamicca23" /><img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="60" align="left" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/anamikaacag"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Anamicca23" /><img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="60" align="left" /></a></p><br><br>
 
 ###
 <div align="center">
