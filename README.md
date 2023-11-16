@@ -35,7 +35,7 @@
 <p>• In the realm of competitive coding, I've achieved <br>
 <b> - Specialist- Codeforces</b> <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=anamicca2221"/><br>
 <b> - 3* Coder -  Codechef</b> <img src="https://cp-logo.vercel.app/codechef/anamikaaca0306"/><br>
-<b> - Knight -  Leetcode</b> <img src="https://img.shields.io/static/v1?message=1923&logo=leetcode&label=Leetcode&color=4CC552&logoColor=Yellow&labelColor=454545&style=for-the-badge" height="22" alt="leetcode logo"  /></br>
+<b> - Knight -  Leetcode</b> <img src="https://img.shields.io/static/v1?message=2005&logo=leetcode&label=Leetcode&color=4CC552&logoColor=Yellow&labelColor=454545&style=for-the-badge" height="22" alt="leetcode logo"  /></br>
 </p>
 <p>• I'm enthusiastic about leveraging my skills and knowledge to contribute meaningfully to any project 
  or team I'm a part of. With a proven track record of academic excellence and a passion for cutting- 
@@ -326,6 +326,9 @@
   </a>
   <a href="https://codepen.io/Anamicca23" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
+  </a>
+ <a href="https://auth.geeksforgeeks.org/user/anamika_aca" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Geeksforgeeks&logo=Geeksforgeeks&label=&color=228B22&logoColor=darkgreen&labelColor=lightgrey&style=for-the-badge" height="35" alt="codepen logo"  />
   </a>
    <h3 align="left">My Social Links:</h3>
   <img src="https://user-images.githubusercontent.com/74038190/212259438-449eca8d-1a7f-4d7d-8d47-5b918c481b6a.png" align="right" width="200"/>
