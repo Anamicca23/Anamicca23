@@ -328,7 +328,10 @@
     <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
   </a>
  <a href="https://auth.geeksforgeeks.org/user/anamika_aca" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Geeksforgeeks&logo=Geeksforgeeks&label=&color=228B22&logoColor=darkgreen&labelColor=lightgrey&style=for-the-badge" height="35" alt="codepen logo"  />
+    <img src="https://img.shields.io/static/v1?message=Geeksforgeeks&logo=Geeksforgeeks&label=&color=228B22&logoColor=darkgreen&labelColor=lightgrey&style=for-the-badge" height="35" alt="geeksforgeeks logo"  />
+  </a>
+ <a href="https://platform.stratascratch.com/user/Anamicca_55" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=stratascratch&logo=&label=$&color=skyblue&logoColor=white&labelColor=white&style=for-the-badge" height="35" alt="stratascratch logo"  />
   </a>
    <h3 align="left">My Social Links:</h3>
   <img src="https://user-images.githubusercontent.com/74038190/212259438-449eca8d-1a7f-4d7d-8d47-5b918c481b6a.png" align="right" width="200"/>
