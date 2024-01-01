@@ -10,7 +10,10 @@
 [![](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/anamicca5/)
 ###
 
-  <image align = "center"  width="400" src= "https://i.pinimg.com/originals/e3/7c/21/e37c2105950eb3d999f38ddc6cad2860.gif"/>
+<p align="center">
+  <img width="400" alt="Alt Text" src="https://i.pinimg.com/originals/cb/36/26/cb36260df0a8f4f9d383e9df3dd21375.gif">
+</p>
+
    
 ###
   
