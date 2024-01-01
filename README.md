@@ -10,7 +10,7 @@
 [![](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/anamicca5/)
 ###
 
-  <image align = "center"  width="900" src= "https://i.pinimg.com/originals/19/c9/e3/19c9e3184c7783ab99fd11af529711c5.gif">
+  <image align = "center"  width="900" src= "https://i.pinimg.com/originals/3f/c9/a6/3fc9a67661e362027ea5f7f304e2a856.gif">
    
 ###
   
@@ -18,7 +18,7 @@
 
 <div>
 <h3 align="left">@About me: </h3>
-  <image align = "right" width="400" src= "https://i.pinimg.com/originals/04/e0/39/04e0395a7c5a986aa80990a4636bd7c4.gif">
+  <image align = "right" width="400" src= "">
 <p>• I'm <b>Anamika Kumari</b>, a dynamic student with a passion for quantitative economics and data science. </p>
 <p>• Currently, I'm on track to graduate with an <b>I.M.Sc.</b> in <b>Quantitative Economics and Data Science</b> from 
  the esteemed <b>Birla Institute of Technology, Mesra</b>.</p>
