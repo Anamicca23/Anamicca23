@@ -10,9 +10,6 @@
 [![](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/anamicca5/)
 ###
 
-<p align="center">
-  <img width="400" alt="Alt Text" src="https://i.pinimg.com/originals/cb/36/26/cb36260df0a8f4f9d383e9df3dd21375.gif">
-</p>
 
    
 ###
@@ -36,8 +33,8 @@
 <p>• My experience also spans Python, C/C++, R, and SQL, all of which I've applied in a competitive 
  programming environment.</p>
 <p>• In the realm of competitive coding, I've achieved <br>
-<b> - Specialist- Codeforces</b> <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=anamicca2221"/><br>
-<b> - 4* Coder -  Codechef</b> <img src="https://cp-logo.vercel.app/codechef/anamikaaca0306"/><br>
+<b> - Expert - Codeforces</b> <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=anamicca2221"/><br>
+<b> - 4* Coder -  Codechef</b> <img src="https://cp-logo.vercel.app/codechef/anamicca2221"/><br>
 <b> - Knight -  Leetcode</b> <img src="https://img.shields.io/static/v1?message=2005&logo=leetcode&label=Leetcode&color=4CC552&logoColor=Yellow&labelColor=454545&style=for-the-badge" height="22" alt="leetcode logo"  /></br>
 </p>
 <p>• I'm enthusiastic about leveraging my skills and knowledge to contribute meaningfully to any project 
