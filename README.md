@@ -34,7 +34,7 @@
  programming environment.</p>
 <p>• In the realm of competitive coding, I've achieved <br>
 <b> - Expert - Codeforces</b> <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=anamicca2221"/><br>
-<b> - 4* Coder -  Codechef</b> <img src="https://cp-logo.vercel.app/codechef/anamicca2221"/><br>
+<b> - 4* Coder -  Codechef</b> <img src="https://cp-logo.vercel.app/codechef/"/><br>
 <b> - Knight -  Leetcode</b> <img src="https://img.shields.io/static/v1?message=2005&logo=leetcode&label=Leetcode&color=4CC552&logoColor=Yellow&labelColor=454545&style=for-the-badge" height="22" alt="leetcode logo"  /></br>
 </p>
 <p>• I'm enthusiastic about leveraging my skills and knowledge to contribute meaningfully to any project 
