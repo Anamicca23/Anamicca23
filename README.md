@@ -34,7 +34,7 @@
  programming environment.</p>
 <p>• In the realm of competitive coding, I've achieved <br>
 <b> - Expert - Codeforces</b> <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=anamicca2221"/><br>
-<b> - 4* Coder -  Codechef</b> <img src="https://cp-logo.vercel.app/codechef/"/><br>
+<b> - 4* Coder -  Codechef</b> <img src="https://cp-logo.vercel.app/codechef/Anamicca2221"/><br>
 <b> - Knight -  Leetcode</b> <img src="https://img.shields.io/static/v1?message=2005&logo=leetcode&label=Leetcode&color=4CC552&logoColor=Yellow&labelColor=454545&style=for-the-badge" height="22" alt="leetcode logo"  /></br>
 </p>
 <p>• I'm enthusiastic about leveraging my skills and knowledge to contribute meaningfully to any project 
@@ -70,7 +70,7 @@
 <p float="left">
 <img height="325em" src="https://leetcard.jacoblin.cool/Anamicca?theme=light&font=Karma&ext=contest" />
 <img height="325em" src="https://codeforces-readme-stats.vercel.app/api/card?username=anamicca2221" />
-<img height="340em" src="https://coding-profile.vercel.app/api/check?username=anamikaaca0306&theme=light"/>
+<img height="340em" src="https://coding-profile.vercel.app/api/check?username=Anamicca2221&theme=light"/>
 <img src="https://i.pinimg.com/originals/44/c8/ad/44c8ad7650f62e33da2aeb998d05de83.gif"  width="240" align="right"/>
 </p>
 
@@ -318,7 +318,7 @@
   <a href="https://leetcode.com/Anamicca/" target="_blank">
 <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=F6BE00&logoColor=Yellow&labelColor=000000&style=for-the-badge" height="35" alt="leetcode logo"  />
   </a>
- <a href="https://www.codechef.com/users/anamikaaca0306" target="_blank">
+ <a href="https://www.codechef.com/users/Anamicca2221" target="_blank">
 <img src="https://img.shields.io/static/v1?message=Codechef&logo=Codechef&label=&color=2F0909&logoColor=Yellow&labelColor=000000&style=for-the-badge" height="35" alt="leetcode logo"  />
   </a>
    <a href="https://www.hackerrank.com/Anamikaaca0306" target="_blank">
