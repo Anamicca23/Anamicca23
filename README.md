@@ -1,5 +1,5 @@
 
-<h2 align="center">Hi! 👋 My name is Anamika kumari.<br>I'm a student at Birla Institute of technology, Mesra, Ranchi, Jharkhand.<br> From Patna, Bihar, India.</h2>
+<h2 align="center">Hi! 👋 Anamika kumari, here!<br>I'm a student at Birla Institute of technology, Mesra, Ranchi, Jharkhand.<br> From Patna, Bihar, India.</h2>
 
 ###
 
