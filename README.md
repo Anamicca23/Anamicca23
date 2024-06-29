@@ -24,31 +24,33 @@
 ###
 
 <div>
-<h3 align="left">@About me: </h3>
-  <image align = "right" width="400" src= "https://i.pinimg.com/originals/60/5e/cd/605ecd2b7d8e7140c1a0c17575bbe9e9.gif" />
-<p>• I'm <b>Anamika Kumari</b>, a dynamic student with a passion for quantitative economics and data science. </p>
-<p>• Currently, I'm on track to graduate with an <b>I.M.Sc.</b> in <b>Quantitative Economics and Data Science</b> from 
- the esteemed <b>Birla Institute of Technology, Mesra</b>.</p>
-<p>• This program not only sharpened my technical skills but also introduced me to advanced tools such 
- as Tableau, Power BI, and deepened my proficiency in Probability and Statistics.</p>
-<p>• I am a driven competitive programmer with a profound passion for machine learning and artificial 
- intelligence. </p>
-<p>• My technical prowess extends across various domains, including computer science fundamentals like 
- DSA, DBMS, and OOPs. </p>
-<p>• I've delved into the realms of Data Analysis and Visualization, harnessing tools like Tableau and a 
- range of Python libraries. </p>
-<p>• My experience also spans Python, C/C++, R, and SQL, all of which I've applied in a competitive 
- programming environment.</p>
-<p>• In the realm of competitive coding, I've achieved <br>
+<h3 align="left">🎓 About Me: </h3>
+<image align="right" height="900" width="350" src="https://i.pinimg.com/originals/60/5e/cd/605ecd2b7d8e7140c1a0c17575bbe9e9.gif" />
+<p>• A dedicated student with a keen interest in quantitative economics, data science, competitive programming, and web development. ✨</p>
+<p>• Expertise in statistical analysis, machine learning algorithms, and data visualization. 📊🧠</p>
+
+<h4 align="left">🎓 Education:</h4>
+<p>• Currently pursuing an <b>I.M.Sc.</b> in <b>Quantitative Economics and Data Science</b> from the renowned <b>Birla Institute of Technology, Mesra</b>. 🎓📘</p>
+<p>• Developing advanced technical skills and proficiency in tools such as Tableau and Power BI, along with a deep understanding of Probability and Statistics. 🛠️📊📈</p>
+
+<h4 align="left">💻 Technical Skills:</h4>
+<p>• Excel as a competitive programmer with a profound interest in machine learning and artificial intelligence. 🤖💻🧠</p>
+<p>• Exhibit technical expertise across various domains, including core computer science fundamentals like DSA, DBMS, and OOPs. 🧠📚💾</p>
+<p>• Specialize in Data Analysis and Visualization, utilizing tools like Tableau and a range of Python libraries. 📈🐍📊</p>
+<p>• Proficient in programming languages such as Python, C/C++, R, and SQL, effectively applied in competitive programming environments. 💪💻</p>
+
+<h4 align="left">🏆 Competitive Programming Achievements:</h4>
+<p>• Attained notable achievements in competitive programming:<br>
 <b> - Expert - Codeforces</b> <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=anamicca2221"/><br>
-<b> - 4* Coder -  Codechef</b> <img src="https://cp-logo.vercel.app/codechef/Anamicca2221"/><br>
-<b> - Knight -  Leetcode</b> <img src="https://img.shields.io/static/v1?message=2005&logo=leetcode&label=Leetcode&color=4CC552&logoColor=Yellow&labelColor=454545&style=for-the-badge" height="22" alt="leetcode logo"  /></br>
+<b> - 4* Coder - Codechef</b> <img src="https://cp-logo.vercel.app/codechef/Anamicca2221"/><br>
+<b> - Knight - Leetcode</b> <img src="https://img.shields.io/static/v1?message=2005&logo=leetcode&label=Leetcode&color=4CC552&logoColor=Yellow&labelColor=454545&style=for-the-badge" height="22" alt="leetcode logo"/><br>
 </p>
-<p>• I'm enthusiastic about leveraging my skills and knowledge to contribute meaningfully to any project 
- or team I'm a part of. With a proven track record of academic excellence and a passion for cutting- 
- edge technologies, I'm eager to embark on new challenges and make a positive impact.</p>
+
+<h4 align="left">🚀 Goals and Aspirations:</h4>
+<p>• Committed to leveraging my skills and knowledge to contribute meaningfully to any project or team I join. 🚀🌟</p>
+<p>• Driven by a passion for cutting-edge technologies and a proven track record of academic excellence, I am eager to embrace new challenges and make a positive impact. 🌟🔧</p>
 </div>
-   
+
 ###
 
 ---
@@ -93,7 +95,6 @@
 
 <div align="left">
  <h3 align="left">Languages and Tools:</h3>
-    <img src="https://wp.technologyreview.com/wp-content/uploads/2021/09/astro_media_animation-gif_01a.gif" align="right" height="300" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -323,7 +324,7 @@
 
 ###
 <div align="left">
-    <img src="https://private-user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk2OTk0MjAsIm5iZiI6MTcxOTY5OTEyMCwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA2OTItMGIzMzUwMjgtMWQzZC00ZWU1LWI1YjMtYTM3M2Q0OTliZTdlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjI5VDIyMTIwMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWIzMjY0ZGY2MzU2YmZlNTgyZWFhZGE4N2QyNGMzZjRkNTNmZTNiYTlhYTZlNmU4NGE1MzZjNjZkODZlODQzYzEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.bZXBOV5aqVPo_g6wwFc330AtU3I3c6poLZSdBOcEb7w" align="right" height="200" width="200" />
+    <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" align="right" height="170" width="250" />
  <h3 align="left">My Coding Profile Links:</h3>
   
   <a href="https://codeforces.com/profile/anamicca2221" target="_blank">
@@ -335,6 +336,7 @@
  <a href="https://www.codechef.com/users/Anamicca2221" target="_blank">
 <img src="https://img.shields.io/static/v1?message=Codechef&logo=Codechef&label=&color=2F0909&logoColor=Yellow&labelColor=000000&style=for-the-badge" height="35" alt="leetcode logo"  />
   </a>
+  <br>
    <a href="https://www.hackerrank.com/Anamikaaca0306" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=228B22&logoColor=white&labelColor=00FF00&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
@@ -344,8 +346,15 @@
  <a href="https://auth.geeksforgeeks.org/user/anamika_aca" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Geeksforgeeks&logo=Geeksforgeeks&label=&color=228B22&logoColor=darkgreen&labelColor=lightgrey&style=for-the-badge" height="35" alt="geeksforgeeks logo"  />
   </a>
+  <br>
  <a href="https://platform.stratascratch.com/user/Anamicca_55" target="_blank">
     <img src="https://img.shields.io/static/v1?message=stratascratch&logo=&label=$&color=skyblue&logoColor=white&labelColor=white&style=for-the-badge" height="35" alt="stratascratch logo"  />
+  </a>
+   <a href="https://platform.stratascratch.com/user/Anamicca_55" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Kaggle&logo=Kaggle&label=&color=white&logoColor=white&labelColor=blue&style=for-the-badge" height="35" alt="Kaggle logo"  />
+  </a>
+   <a href="https://platform.stratascratch.com/user/Anamicca_55" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Hackerearth&logo=&label=H&color=darkviolet&logoColor=white&labelColor=white&style=for-the-badge" height="35" alt="hackerearth logo"  />
   </a>
    
 ###
@@ -355,7 +364,7 @@
 ###
 
    <h3 align="left">My Social Links:</h3>
-  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" align="right" width="200"/>
+  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" align="right" width="60"/>
   <a href="https://www.linkedin.com/in/anamika-k-93877323a/"><img src="https://i.pinimg.com/564x/03/5a/6b/035a6be81e71b377dcebdc6c6b9b84d9.jpg" width="45" /></a>
 <a href="https://www.youtube.com/channel/UC_amoXmmxSY9oDczDTXQ"><img src="https://i.pinimg.com/564x/c7/b3/f0/c7b3f0f21a1407791cfe955d1913bddb.jpg" width="50" /></a>
 <a href="https://www.patreon.com/"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/patreon_logo.png" width="65" /></a>
@@ -374,7 +383,7 @@
 ---
 ###
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/anamikaacag"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="200" alt="Anamicca23" /><img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="60" align="left" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/anamikaacag"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="200" alt="Anamicca23" /><img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="60" align="left" /><img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="200" aligh="right" /></a></p><br><br>
 
 ---
 ###
