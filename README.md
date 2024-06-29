@@ -1,5 +1,11 @@
 
+<image align = "right" width="1200" height="350" src= "https://i.pinimg.com/originals/5a/9f/69/5a9f698c13cbb063db41d3c56c718742.gif" />
+
+
 <h2 align="center">Hi! 👋 Anamika kumari, here!<br>I'm a student at Birla Institute of technology, Mesra, Ranchi, Jharkhand.<br> From Patna, Bihar, India.</h2>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Anamicca23" alt="Anamicca23" /></a></p>
+
+---
 
 ###
 
@@ -11,7 +17,7 @@
 [![](https://img.shields.io/static/v1?message=twitch.tv&logo=twitch&label=&color=7F00FF&logoColor=white&labelColor=&style=for-the-badge)](https://www.twitch.tv/anamicca2221/)
 ###
 
-
+---
    
 ###
   
@@ -45,7 +51,10 @@
    
 ###
 
+---
+
 ###
+
 ###
 
 <div align="center">
@@ -56,7 +65,7 @@
 </div>
 
 ###
-
+---
 ###
 <p align="center">
   <h3 align="left">Anamika Kumari's Leetcode Stats: </h3>
@@ -66,6 +75,7 @@
 </p> 
 
 ###
+---
 
 <h3 align="left"><b>&#128200; Competitive Programming</b></h3>
 <p float="left">
@@ -76,6 +86,7 @@
 </p>
 
 ###
+---
 
 <img align="right" height="130" src="https://wp.technologyreview.com/wp-content/uploads/2021/09/astro_media_animation-gif_01a.gif"  />
 
@@ -308,6 +319,7 @@
 ###
 
 ###
+---
 
 ###
 <div align="left">
@@ -334,6 +346,8 @@
  <a href="https://platform.stratascratch.com/user/Anamicca_55" target="_blank">
     <img src="https://img.shields.io/static/v1?message=stratascratch&logo=&label=$&color=skyblue&logoColor=white&labelColor=white&style=for-the-badge" height="35" alt="stratascratch logo"  />
   </a>
+
+---
    <h3 align="left">My Social Links:</h3>
   <img src="https://user-images.githubusercontent.com/74038190/212259438-449eca8d-1a7f-4d7d-8d47-5b918c481b6a.png" align="right" width="200"/>
   <a href="https://www.linkedin.com/in/anamika-k-93877323a/"><img src="https://i.pinimg.com/564x/03/5a/6b/035a6be81e71b377dcebdc6c6b9b84d9.jpg" width="45" /></a>
@@ -351,10 +365,12 @@
 
 ###
 
+---
 ###
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/anamikaacag"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Anamicca23" /><img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="60" align="left" /></a></p><br><br>
 
+---
 ###
 <div align="center">
   <img src="https://profile-counter.glitch.me/anamicca23/count.svg?"  />
