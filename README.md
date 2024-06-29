@@ -3,7 +3,7 @@
 
 
 <h2 align="center">Hi! 👋 Anamika kumari, here!<br>I'm a student at Birla Institute of technology, Mesra, Ranchi, Jharkhand.<br> From Patna, Bihar, India.</h2>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Anamicca23" alt="Anamicca23" /></a></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Anamicca23&row=1&column=9" alt="Anamicca23" /></a></p>
 
 ---
 
