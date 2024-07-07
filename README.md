@@ -1,4 +1,6 @@
 
+
+
 <image align = "right" width="1200" height="350" src= "https://i.pinimg.com/originals/5a/9f/69/5a9f698c13cbb063db41d3c56c718742.gif" />
 
 
@@ -20,9 +22,11 @@
 ---
    
 ###
-  
-###
+<div align="center">
+  <img  alt="GIF" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+a+avid+Developer💻.;I+am+a+Data+Analyst📈.;I+am+a+Data+Science+Enthusiast✨.;I+am+a+Competitive+Programmer📊."/>
+</div>
 
+---
 <div>
 <h3 align="left">🎓 About Me: </h3>
 <image align="right" height="900" width="350" src="https://i.pinimg.com/originals/60/5e/cd/605ecd2b7d8e7140c1a0c17575bbe9e9.gif" />
@@ -64,6 +68,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=anamicca23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false" height="141" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=anamicca23&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=50" height="140" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anamicca23&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=10&theme=aura&hide_border=false" height="150" alt="languages graph"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anamicca23&layout=compact&langs_count=10&theme=gruvbox" width="33%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anamicca23&theme=gruvbox" width="100%"/>
 </div>
 
 ###
