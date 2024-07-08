@@ -17,6 +17,7 @@
 [![](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.com/channels/@me)
 [![](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/anamicca5/)
 [![](https://img.shields.io/static/v1?message=twitch.tv&logo=twitch&label=&color=7F00FF&logoColor=white&labelColor=&style=for-the-badge)](https://www.twitch.tv/anamicca2221/)
+[![](https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=black&logoColor=white&labelColor=&style=for-the-badge)](https://x.com/Anamicca2221)
 ###
 
 ---
