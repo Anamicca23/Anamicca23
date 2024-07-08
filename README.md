@@ -69,7 +69,7 @@
   <img src="https://streak-stats.demolab.com?user=anamicca23&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=50" height="140" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anamicca23&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=10&theme=aura&hide_border=false" height="150" alt="languages graph"  />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anamicca23&layout=compact&langs_count=10&theme=gruvbox" width="33%"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anamicca23&theme=gruvbox" width="100%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anamicca23&theme=gruvbox&hide_border=false&layout=compact" width="100%"/>
 </div>
 
 ###
