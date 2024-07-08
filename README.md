@@ -23,7 +23,7 @@
    
 ###
 <div align="center">
-  <img  alt="GIF" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+a+avid+Developer💻.;I+am+a+Data+Analyst📈.;I+am+a+Data+Science+Enthusiast✨.;I+am+a+Competitive+Programmer📊."/>
+  <img  alt="GIF" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=HI!+Anamika+Kumari+Here🖐️.;I+am+a+avid+Developer💻.;I+am+a+Data+Analyst📈.;I+am+a+Competitive+Programmer📊.;I+am+a+Data+Science+Enthusiast✨.;I+am+a+Machine+Learning+Enthusisast✨.;I+am+a+AI+Enthusiast✨.;"/>
 </div>
 
 ---
