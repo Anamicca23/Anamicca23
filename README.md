@@ -70,7 +70,7 @@
 <b>LEETCODE</b>
 <p>
 <img align="right" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" alt="Leetcode Logo" width="50" />
-<img align="left" src="https://img.shields.io/static/v1?message=2005&logo=leetcode&label=Leetcode&color=4CC552&logoColor=Yellow&labelColor=454545&style=for-the-badge" height="22" alt="leetcode logo"/><br>
+<img align="left" src="https://img.shields.io/static/v1?message=2005&logo=leetcode&label=Leetcode&color=4CC552&logoColor=Yellow&labelColor=454545&style=for-the-badge" height="22" alt="leetcode logo"/> <br>
 <b> ° Title: Knight</b> <br>
 <b> ° Best Rank : 784 / 18,156  - Weekly Contest 371 </b>  
 </p>
