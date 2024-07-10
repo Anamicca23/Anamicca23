@@ -52,15 +52,17 @@
 <b>CODEFORCES</b>
 <p>
 <img align="right" src="https://art.npanuhin.me/SVG/Codeforces/src/Codeforces.colored.min.svg" alt="Codeforces Logo" width="50"/>
-<b> ° Title: Expert </b><img src="https://codeforces-readme-stats.vercel.app/api/badge?username=anamicca2221"/><br>
+<img align="left" src="https://codeforces-readme-stats.vercel.app/api/badge?username=anamicca2221"/><br>
+<b> ° Title: Expert </b><br>
 <b> ° Best Rank : 564 / 12,290 - Think-cell Round 1 </b>  
 </p>
 
 
 <b>CODECHEF</b>
 <p>
-<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbyittnxU5aR8dXQ6sa61bvp1lp22EslGauA&usqp=CAU" alt="Codechef Logo" width="50" />
-<b> ° Title: 4* Coder </b><img src="https://cp-logo.vercel.app/codechef/Anamicca2221"/><br>
+<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyjpdztXS6-ldj8Njcp1wfOYNGka-Y-1OnBw&usqp=CAU" alt="Codechef Logo" width="50" />
+<img align="left" src="https://cp-logo.vercel.app/codechef/Anamicca2221"/><br>
+<b> ° Title: 4* Coder </b><br>
 <b> ° Best Rank : 25 / 5,577 - Starter 124 (Division 3) </b>  
 </p>
 
@@ -68,7 +70,8 @@
 <b>LEETCODE</b>
 <p>
 <img align="right" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" alt="Leetcode Logo" width="50" />
-<b> ° Title: Knight</b> <img src="https://img.shields.io/static/v1?message=2005&logo=leetcode&label=Leetcode&color=4CC552&logoColor=Yellow&labelColor=454545&style=for-the-badge" height="22" alt="leetcode logo"/><br>
+<img align="left" src="https://img.shields.io/static/v1?message=2005&logo=leetcode&label=Leetcode&color=4CC552&logoColor=Yellow&labelColor=454545&style=for-the-badge" height="22" alt="leetcode logo"/><br>
+<b> ° Title: Knight</b> <br>
 <b> ° Best Rank : 784 / 18,156  - Weekly Contest 371 </b>  
 </p>
 
