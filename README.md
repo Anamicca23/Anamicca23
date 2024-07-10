@@ -46,8 +46,9 @@
 
 
 
-<details><summary><strong>🏆 Competitive Programming Achievements:</strong></summary><br>
+<h4 align="left"> 🏆. Competitive Programming Achievements: </h4>
 <p>• Attained notable achievements in competitive programming:<br>
+   
 <b>CODEFORCES</b>
 <p>
 <img align="right" src="https://art.npanuhin.me/SVG/Codeforces/src/Codeforces.colored.min.svg" alt="Codeforces Logo" width="50"/>
@@ -77,8 +78,6 @@
 <b> ° Title: Expert </b><br>
 <b> ° Details: </b> Earned the Expert title by participating in various machine learning competitions and contributing to the Kaggle community with insightful notebooks and discussions. <br>
 </p>
-
-</details>
 
 
 
