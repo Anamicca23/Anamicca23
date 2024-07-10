@@ -30,7 +30,7 @@
 ---
 <div>
 <h3 align="left">🎓 About Me: </h3>
-<image align="right" height="900" width="350" src="https://i.pinimg.com/originals/60/5e/cd/605ecd2b7d8e7140c1a0c17575bbe9e9.gif" />
+<!-- <image align="right" height="900" width="350" src="https://i.pinimg.com/originals/60/5e/cd/605ecd2b7d8e7140c1a0c17575bbe9e9.gif" /> -->
 <p>• A dedicated student with a keen interest in quantitative economics, data science, competitive programming, and web development. ✨</p>
 <p>• Expertise in statistical analysis, machine learning algorithms, and data visualization. 📊🧠</p>
 
@@ -44,12 +44,43 @@
 <p>• Specialize in Data Analysis and Visualization, utilizing tools like Tableau and a range of Python libraries. 📈🐍📊</p>
 <p>• Proficient in programming languages such as Python, C/C++, R, and SQL, effectively applied in competitive programming environments. 💪💻</p>
 
-<h4 align="left">🏆 Competitive Programming Achievements:</h4>
+
+
+<details><summary><strong>🏆 Competitive Programming Achievements:</strong></summary><br>
 <p>• Attained notable achievements in competitive programming:<br>
-<b> - Expert - Codeforces</b> <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=anamicca2221"/><br>
-<b> - 4* Coder - Codechef</b> <img src="https://cp-logo.vercel.app/codechef/Anamicca2221"/><br>
-<b> - Knight - Leetcode</b> <img src="https://img.shields.io/static/v1?message=2005&logo=leetcode&label=Leetcode&color=4CC552&logoColor=Yellow&labelColor=454545&style=for-the-badge" height="22" alt="leetcode logo"/><br>
+<b>CODEFORCES</b>
+<p>
+<img align="right" src="https://art.npanuhin.me/SVG/Codeforces/src/Codeforces.colored.min.svg" alt="Codeforces Logo" width="50"/>
+<b> ° Title: Expert </b><img src="https://codeforces-readme-stats.vercel.app/api/badge?username=anamicca2221"/><br>
+<b> ° Best Rank : 564 / 12,290 - Think-cell Round 1 </b>  
 </p>
+
+
+<b>CODECHEF</b>
+<p>
+<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbyittnxU5aR8dXQ6sa61bvp1lp22EslGauA&usqp=CAU" alt="Codechef Logo" width="50" />
+<b> ° Title: 4* Coder </b><img src="https://cp-logo.vercel.app/codechef/Anamicca2221"/><br>
+<b> ° Best Rank : 25 / 5,577 - Starter 124 (Division 3) </b>  
+</p>
+
+
+<b>LEETCODE</b>
+<p>
+<img align="right" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" alt="Leetcode Logo" width="50" />
+<b> ° Title: Knight</b> <img src="https://img.shields.io/static/v1?message=2005&logo=leetcode&label=Leetcode&color=4CC552&logoColor=Yellow&labelColor=454545&style=for-the-badge" height="22" alt="leetcode logo"/><br>
+<b> ° Best Rank : 784 / 18,156  - Weekly Contest 371 </b>  
+</p>
+
+<b>Kaggle</b>
+<p>
+<img align="right" src="https://www.kaggle.com/static/images/site-logo.png" alt="Kaggle Logo" width="50"/>
+<b> ° Title: Expert </b><br>
+<b> ° Details: </b> Earned the Expert title by participating in various machine learning competitions and contributing to the Kaggle community with insightful notebooks and discussions. <br>
+</p>
+
+</details>
+
+
 
 <h4 align="left">🚀 Goals and Aspirations:</h4>
 <p>• Committed to leveraging my skills and knowledge to contribute meaningfully to any project or team I join. 🚀🌟</p>
