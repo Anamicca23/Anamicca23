@@ -30,6 +30,7 @@
 ---
 <div>
 <h3 align="left">🎓 About Me: </h3>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 <!-- <image align="right" height="900" width="350" src="https://i.pinimg.com/originals/60/5e/cd/605ecd2b7d8e7140c1a0c17575bbe9e9.gif" /> -->
 <p>• A dedicated student with a keen interest in quantitative economics, data science, competitive programming, and web development. ✨</p>
 <p>• Expertise in statistical analysis, machine learning algorithms, and data visualization. 📊🧠</p>
