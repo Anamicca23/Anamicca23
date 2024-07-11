@@ -1,6 +1,3 @@
-
-
-
 <image align = "right" width="1200" height="350" src= "https://i.pinimg.com/originals/5a/9f/69/5a9f698c13cbb063db41d3c56c718742.gif" />
 
 ---
@@ -28,27 +25,59 @@
 </div>
 
 ---
-<div>
-<h3 align="left">🎓 About Me: </h3>
+<h3 align="center">An Aspiring Data Analysts and Passionate Frontend Developer from India</h3><br>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
-<!-- <image align="right" height="900" width="350" src="https://i.pinimg.com/originals/60/5e/cd/605ecd2b7d8e7140c1a0c17575bbe9e9.gif" /> -->
-<p>• A dedicated student with a keen interest in quantitative economics, data science, competitive programming, and web development. ✨</p>
-<p>• Expertise in statistical analysis, machine learning algorithms, and data visualization. 📊🧠</p>
 
-<h4 align="left">🎓 Education:</h4>
-<p>• Currently pursuing an <b>I.M.Sc.</b> in <b>Quantitative Economics and Data Science</b> from the renowned <b>Birla Institute of Technology, Mesra</b>. 🎓📘</p>
-<p>• Developing advanced technical skills and proficiency in tools such as Tableau and Power BI, along with a deep understanding of Probability and Statistics. 🛠️📊📈</p>
+- 🌱 I’m currently learning **Flutter and PowerBI**
 
-<h4 align="left">💻 Technical Skills:</h4>
+- 💬 Ask me about **Frontend, Machine learning, Data Science, Competitive programming**
+
+- 📫 Reach me at **Anamikaaca0306@gmail.com**
+
+---
+
+<h2 align="left">💻 Technical Skills:</h2>
 <p>• Excel as a competitive programmer with a profound interest in machine learning and artificial intelligence. 🤖💻🧠</p>
 <p>• Exhibit technical expertise across various domains, including core computer science fundamentals like DSA, DBMS, and OOPs. 🧠📚💾</p>
 <p>• Specialize in Data Analysis and Visualization, utilizing tools like Tableau and a range of Python libraries. 📈🐍📊</p>
 <p>• Proficient in programming languages such as Python, C/C++, R, and SQL, effectively applied in competitive programming environments. 💪💻</p>
 
+---
 
+<h2 align="left">🎓 Education:</h2>
+<details> 
+     <summary align = "center" >• Completed my Educational careers from : </summary>
+<h3>Birla Institute Of Technology, Mesra, Ranchi</h3>
+<h6>Dec 2021 - July  2026</h6>
+<p>
+   <img align="right" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Birla_Institute_of_Technology_Mesra.png/220px-Birla_Institute_of_Technology_Mesra.png" alt="Bitmesra Logo" width="70"/>
+   <b> ° Branch : Integrated Master Of Science</b><br>
+   <b> ° Major : Quantative Economics and Data Science </b><br>
+   <h6> ° Coursework :</b> Data Science, Machine Learning, Quantative Economics, Probability and Statistics, Linear Algebra, DataBase Management System, Python , R,.etc.</h6>
+</p>
 
-<h4 align="left"> 🏆. Competitive Programming Achievements: </h4>
-<p>• Attained notable achievements in competitive programming:<br>
+<h3>Thakur Prashad Singh College, Patna</h3>
+<h6> Jun 2018 - March 2020</h6>
+<p>
+   <img align="right" src="https://storage.googleapis.com/educrib/colleges/logos/e854ad896ae236c6a6ababf16d68adc8Logo.jpg" alt="T.p.s College Logo" width="80"/>
+   <b> ° Branch : HSC/Intermediate </b><br>
+   <b> ° Major : Physics,Chemistry,Maths-(PCM) with Computer Science</b><br>
+</p>
+
+<h3>Doon Global High School, Nadwan </h3>
+<h6> July 2015 - April 2018</h6>
+<p>
+   <img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWIhYoFx9p_6osRIr24z76a_3_Sb5Qhk4xxAhQUZuU73B2nlmz_76B7GBnkvGKFRvz6fs&usqp=CAU" alt="Doon Global School Logo" width="70"/>
+   <b> ° Branch : SSC/Matriculation </b><br>
+   <b> ° Major : Physics,Chemistry,Biology,Maths,English,Computer Science</b><br>
+</p>
+</details>
+
+---
+
+<h2 align="left"> 🏆. Competitive Programming Achievements: </h2>
+<details> 
+<summary align="center" >• Attained notable achievements in competitive programming:</summary>
    
 <b>CODEFORCES</b>
 <p>
@@ -81,15 +110,10 @@
 <p>
 <img align="right" src="https://www.kaggle.com/static/images/site-logo.png" alt="Kaggle Logo" width="50"/>
 <b> ° Title: Expert </b><br>
-<b> ° Details: </b> Earned the Expert title by participating in various machine learning competitions and contributing to the Kaggle community with insightful notebooks and discussions. <br>
+<b> ° Details: </b> Earned the Expert title by participating in various machine learning competitions<br> and contributing to the Kaggle community with insightful notebooks and discussions. <br>
 </p>
 
-
-
-<h4 align="left">🚀 Goals and Aspirations:</h4>
-<p>• Committed to leveraging my skills and knowledge to contribute meaningfully to any project or team I join. 🚀🌟</p>
-<p>• Driven by a passion for cutting-edge technologies and a proven track record of academic excellence, I am eager to embrace new challenges and make a positive impact. 🌟🔧</p>
-</div>
+</details>
 
 ###
 
@@ -100,7 +124,7 @@
 ###
 
 <div align="center">
- <h3 align="left">Anamika Kumari's Github Stats: </h3>
+ <h2 align="left">Anamika Kumari's Github Stats: </h2>
   <img src="https://github-readme-stats.vercel.app/api?username=anamicca23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false" height="141" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=anamicca23&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=50" height="140" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anamicca23&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=10&theme=aura&hide_border=false" height="150" alt="languages graph"  />
@@ -112,7 +136,7 @@
 ---
 ###
 <p align="center">
-  <h3 align="left">Anamika Kumari's Leetcode Stats: </h3>
+  <h2 align="left">Anamika Kumari's Leetcode Stats: </h2>
  <a href="[https://leetcode.com/Anamicca](https://leetcode.com/Anamicca/)" target="_blank">
 <img width =100% src="https://leetcard.jacoblin.cool/anamicca?ext=heatmap"/>
  </a>
@@ -121,7 +145,7 @@
 ###
 ---
 
-<h3 align="left"><b>&#128200; Competitive Programming</b></h3>
+<h2 align="left"><b>&#128200; Competitive Programming</b></h2>
 <p float="left">
 <img height="325em" src="https://leetcard.jacoblin.cool/Anamicca?theme=light&font=Karma&ext=contest" />
 <img height="325em" src="https://codeforces-readme-stats.vercel.app/api/card?username=anamicca2221" />
@@ -136,7 +160,7 @@
 ###
 
 <div align="left">
- <h3 align="left">Languages and Tools:</h3>
+ <h2 align="left">Languages and Tools:</h2>
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -367,7 +391,7 @@
 ###
 <div align="left">
     <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" align="right" height="170" width="250" />
- <h3 align="left">My Coding Profile Links:</h3>
+ <h2 align="left">My Coding Profile Links:</h2>
   
   <a href="https://codeforces.com/profile/anamicca2221" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codeforces&logo=Codeforces&label=&color=FF0000&logoColor=Red&labelColor=FFD700&style=for-the-badge" height="35" alt="Codeforces logo"  />
@@ -405,7 +429,7 @@
 
 ###
 
-   <h3 align="left">My Social Links:</h3>
+   <h2 align="left">My Social Links:</h2>
   <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" align="right" width="60"/>
   <a href="https://www.linkedin.com/in/anamika-k-93877323a/"><img src="https://i.pinimg.com/564x/03/5a/6b/035a6be81e71b377dcebdc6c6b9b84d9.jpg" width="45" /></a>
 <a href="https://www.youtube.com/channel/UC_amoXmmxSY9oDczDTXQ"><img src="https://i.pinimg.com/564x/c7/b3/f0/c7b3f0f21a1407791cfe955d1913bddb.jpg" width="50" /></a>
@@ -424,7 +448,7 @@
 
 ---
 ###
-<h3 align="left">Support:</h3>
+<h2 align="left">Support:</h2>
 <p><a href="https://www.buymeacoffee.com/anamikaacag"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="200" alt="Anamicca23" /><img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="60" align="left" /><img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="200" aligh="right" /></a></p><br><br>
 
 ---
