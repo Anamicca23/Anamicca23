@@ -46,7 +46,7 @@
 
 <h2 align="left">🎓 Education:</h2>
 <details> 
-     <summary align = "center" >• Completed my Educational careers from : </summary>
+     <summary align = "center" >• Completed my academic journey and gained skills at: </summary>
 <h3>Birla Institute Of Technology, Mesra, Ranchi</h3>
 <h6>Dec 2021 - July  2026</h6>
 <p>
