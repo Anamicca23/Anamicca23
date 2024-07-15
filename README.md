@@ -28,7 +28,7 @@
 <h3 align="center">An Aspiring Data Analysts and Passionate Frontend Developer from India</h3><br>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
-- 🌱 I’m currently learning **Flutter and PowerBI**
+- 🌱 I’m currently learning **MACHINE LEARNING and Advance Natural Language Processing**
 
 - 💬 Ask me about **Frontend, Machine learning, Data Science, Competitive programming**
 
