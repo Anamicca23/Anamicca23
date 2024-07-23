@@ -154,7 +154,6 @@
 <img height="325em" src="https://leetcard.jacoblin.cool/Anamicca?theme=light&font=Karma&ext=contest" />
 <img height="325em" src="https://codeforces-readme-stats.vercel.app/api/card?username=anamicca2221" />
 <img height="340em" src="https://coding-profile.vercel.app/api/check?username=Anamicca2221&theme=light"/>
-<img src="https://i.pinimg.com/originals/44/c8/ad/44c8ad7650f62e33da2aeb998d05de83.gif"  width="240" align="right"/>
 </p>
 
 ###
@@ -165,6 +164,7 @@
 
 <div align="left">
  <h2 align="left">Languages and Tools:</h2>
+   <img src="https://i.pinimg.com/originals/44/c8/ad/44c8ad7650f62e33da2aeb998d05de83.gif"  width="30%" align="right"/>
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -394,9 +394,8 @@
 
 ###
 <div align="left">
-    <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" align="right" height="170" width="250" />
  <h2 align="left">My Coding Profile Links:</h2>
-  
+   <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" align="right" height="140" width="220" />
   <a href="https://codeforces.com/profile/anamicca2221" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codeforces&logo=Codeforces&label=&color=FF0000&logoColor=Red&labelColor=FFD700&style=for-the-badge" height="35" alt="Codeforces logo"  />
   </a>
@@ -464,3 +463,7 @@
 </div>
 
 ###
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%" />
+</p>
