@@ -29,19 +29,21 @@
 <h3 align="center">An Aspiring Data Analysts and Passionate Frontend Developer from India</h3><br>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
-- 🌱 I’m currently learning **MACHINE LEARNING and Advance Natural Language Processing**
 
-- 💬 Ask me about **Frontend, Machine learning, Data Science, Competitive programming**
+
+- 🌱 I’m currently learning **Machine Learning** and **Advanced Natural Language Processing**.
+
+- 💬 Ask me about **Frontend Development, Machine Learning, Data Science, and Competitive Programming**.
+
+- 🌟 **Passionate** about leveraging data to drive decision-making and create innovative solutions.
+
+- 💡 **Experienced** in building scalable web applications and exploring cutting-edge technologies in AI.
+
+- 🎓 **Background** in Computer Science with hands-on experience in various programming languages and frameworks.
+  
+- 🛠️ **Proficient** in using modern development tools and platforms, including Git, Docker, and cloud services.
 
 - 📫 Reach me at **Anamikaaca0306@gmail.com**
-
----
-
-<h2 align="left">💻 Technical Skills:</h2>
-<p>• Excel as a competitive programmer with a profound interest in machine learning and artificial intelligence. 🤖💻🧠</p>
-<p>• Exhibit technical expertise across various domains, including core computer science fundamentals like DSA, DBMS, and OOPs. 🧠📚💾</p>
-<p>• Specialize in Data Analysis and Visualization, utilizing tools like Tableau and a range of Python libraries. 📈🐍📊</p>
-<p>• Proficient in programming languages such as Python, C/C++, R, and SQL, effectively applied in competitive programming environments. 💪💻</p>
 
 ---
 
@@ -72,6 +74,37 @@
    <b> ° Branch : SSC/Matriculation </b><br>
    <b> ° Major : Physics,Chemistry,Biology,Maths,English,Computer Science</b><br>
 </p>
+</details>
+
+---
+
+<h2 align="left">💻 Technical Skills:</h2>
+<details>
+ <summary align = "center" >🕑 Technical Skills Overview: I've been working on:</summary>
+   
+---
+| **Programming Languages**           | **Frameworks & Libraries**            | **Databases**                | **Web Development**            | **Mobile Development**            | **Tools & Platforms**            | **Data Science**                  | **Machine Learning & AI**         |
+| ----------------------------------- | ------------------------------------- | ---------------------------- | ------------------------------ | -------------------------------- | -------------------------------- | -------------------------------- | -------------------------------- |
+| ![JS Icon](https://img.icons8.com/ios/50/000000/javascript.png) **JavaScript**           | ![React Icon](https://img.icons8.com/ios/50/000000/react.png) **React**                  | ![MongoDB Icon](https://img.icons8.com/ios/50/000000/mongodb.png) **MongoDB**              | ![HTML/CSS Icon](https://img.icons8.com/ios/50/000000/html.png) **HTML/CSS**              | ![Swift Icon](https://img.icons8.com/ios/50/000000/swift.png) **Swift (iOS)**            | ![Git Icon](https://img.icons8.com/ios/50/000000/git.png) **Git**                    | ![Pandas Icon](https://img.icons8.com/ios/50/000000/pandas.png) **Pandas**               | ![TensorFlow Icon](https://img.icons8.com/ios/50/000000/tensorflow.png) **TensorFlow**  |
+| ![JavaScript](https://progress-bar.dev/95?title=JavaScript) | ![React](https://progress-bar.dev/85?title=React) | ![MongoDB](https://progress-bar.dev/75?title=MongoDB) | ![HTML/CSS](https://progress-bar.dev/95?title=HTML/CSS) | ![Swift](https://progress-bar.dev/50?title=Swift) | ![Git](https://progress-bar.dev/85?title=Git) | ![Pandas](https://progress-bar.dev/75?title=Pandas) | ![TensorFlow](https://progress-bar.dev/45?title=TensorFlow) |
+| ![Python Icon](https://img.icons8.com/ios/50/000000/python.png) **Python**               | ![Express Icon](https://img.icons8.com/ios/50/000000/express.png) **Express.js**            | ![MySQL Icon](https://img.icons8.com/ios/50/000000/mysql.png) **MySQL**                  | ![Bootstrap Icon](https://img.icons8.com/ios/50/000000/bootstrap.png) **Bootstrap**         | ![React Native Icon](https://img.icons8.com/ios/50/000000/react-native.png) **React Native** | ![Docker Icon](https://img.icons8.com/ios/50/000000/docker.png) **Docker**            | ![NumPy Icon](https://img.icons8.com/ios/50/000000/numpy.png) **NumPy**                 | ![PyTorch](https://img.icons8.com/ios/50/000000/pytorch.png) **PyTorch**                |
+| ![Python](https://progress-bar.dev/85?title=Python) | ![Express.js](https://progress-bar.dev/70?title=Express.js) | ![MySQL](https://progress-bar.dev/50?title=MySQL) | ![Bootstrap](https://progress-bar.dev/75?title=Bootstrap) | ![React Native](https://progress-bar.dev/75?title=ReactNative) | ![Docker](https://progress-bar.dev/50?title=Docker) | ![NumPy](https://progress-bar.dev/70?title=NumPy) | ![PyTorch](https://progress-bar.dev/37.5?title=PyTorch) |
+| ![Java Icon](https://img.icons8.com/ios/50/000000/java.png) **Java**                 | ![Node.js Icon](https://img.icons8.com/ios/50/000000/node-js.png) **Node.js**               | ![PostgreSQL Icon](https://img.icons8.com/ios/50/000000/postgresql.png) **PostgreSQL**     | ![jQuery Icon](https://img.icons8.com/ios/50/000000/jquery.png) **jQuery**                | ![Flutter Icon](https://img.icons8.com/ios/50/000000/flutter.png) **Flutter**             | ![Kubernetes Icon](https://img.icons8.com/ios/50/000000/kubernetes.png) **Kubernetes** | ![Scikit-Learn Icon](https://img.icons8.com/ios/50/000000/scikit-learn.png) **Scikit-Learn** | ![Keras Icon](https://img.icons8.com/ios/50/000000/keras.png) **Keras**                  |
+| ![Java](https://progress-bar.dev/75?title=Java) | ![Node.js](https://progress-bar.dev/60?title=Node.js) | ![PostgreSQL](https://progress-bar.dev/37.5?title=PostgreSQL) | ![jQuery](https://progress-bar.dev/50?title=jQuery) | ![Flutter](https://progress-bar.dev/37.5?title=Flutter) | ![Kubernetes](https://progress-bar.dev/25?title=Kubernetes) | ![Scikit-Learn](https://progress-bar.dev/50?title=Scikit-Learn) | ![Keras](https://progress-bar.dev/25?title=Keras) |
+| ![C++ Icon](https://img.icons8.com/ios/50/000000/c-plus-plus.png) **C++**                  | ![Django Icon](https://img.icons8.com/ios/50/000000/django.png) **Django**                | ![SQLite Icon](https://img.icons8.com/ios/50/000000/sqlite.png) **SQLite**             | ![REST APIs Icon](https://img.icons8.com/ios/50/000000/rest-api.png) **REST APIs**          | ![Kotlin Icon](https://img.icons8.com/ios/50/000000/kotlin.png) **Kotlin (Android)**    | ![Jenkins Icon](https://img.icons8.com/ios/50/000000/jenkins.png) **Jenkins**         | ![Matplotlib Icon](https://img.icons8.com/ios/50/000000/matplotlib.png) **Matplotlib**   | ![OpenCV Icon](https://img.icons8.com/ios/50/000000/opencv.png) **OpenCV**               |
+| ![C++](https://progress-bar.dev/50?title=C++) | ![Django](https://progress-bar.dev/45?title=Django) | ![SQLite](https://progress-bar.dev/12.5?title=SQLite) | ![REST APIs](https://progress-bar.dev/70?title=RESTAPIs) | ![Kotlin](https://progress-bar.dev/50?title=Kotlin) | ![Jenkins](https://progress-bar.dev/37.5?title=Jenkins) | ![Matplotlib](https://progress-bar.dev/45?title=Matplotlib) | ![OpenCV](https://progress-bar.dev/25?title=OpenCV) |
+| ![Swift Icon](https://img.icons8.com/ios/50/000000/swift.png) **Swift**                | ![Flask Icon](https://img.icons8.com/ios/50/000000/flask.png) **Flask**                 | ![Redis Icon](https://img.icons8.com/ios/50/000000/redis.png) **Redis**                | ![GraphQL Icon](https://img.icons8.com/ios/50/000000/graphql.png) **GraphQL**             | ![Objective-C Icon](https://img.icons8.com/ios/50/000000/objective-c.png) **Objective-C** | ![AWS Icon](https://img.icons8.com/ios/50/000000/amazon-web-services.png) **AWS**             | ![Seaborn Icon](https://img.icons8.com/ios/50/000000/seaborn.png) **Seaborn**            | ![spaCy Icon](https://img.icons8.com/ios/50/000000/spacy.png) **spaCy**                  |
+| ![Swift](https://progress-bar.dev/50?title=Swift) | ![Flask](https://progress-bar.dev/25?title=Flask) | ![Redis](https://progress-bar.dev/25?title=Redis) | ![GraphQL](https://progress-bar.dev/25?title=GraphQL) | ![Objective-C](https://progress-bar.dev/18.75?title=Objective-C) | ![AWS](https://progress-bar.dev/70?title=AWS) | ![Seaborn](https://progress-bar.dev/37.5?title=Seaborn) | ![spaCy](https://progress-bar.dev/18.75?title=spaCy) |
+| ![Ruby Icon](https://img.icons8.com/ios/50/000000/ruby.png) **Ruby**                  | ![Angular Icon](https://img.icons8.com/ios/50/000000/angular.png) **Angular**            | ![Cassandra Icon](https://img.icons8.com/ios/50/000000/cassandra.png) **Cassandra**         | ![SASS/SCSS Icon](https://img.icons8.com/ios/50/000000/sass.png) **SASS/SCSS**           | ![Ionic Icon](https://img.icons8.com/ios/50/000000/ionic.png) **Ionic**                | ![Azure Icon](https://img.icons8.com/ios/50/000000/azure.png) **Azure**              | ![SQL Icon](https://img.icons8.com/ios/50/000000/sql.png) **SQL**                  | ![NLTK Icon](https://img.icons8.com/ios/50/000000/nltk.png) **NLTK**                 |
+| ![Ruby](https://progress-bar.dev/25?title=Ruby) | ![Angular](https://progress-bar.dev/37.5?title=Angular) | ![Cassandra](https://progress-bar.dev/18.75?title=Cassandra) | ![SASS/SCSS](https://progress-bar.dev/25?title=SASS/SCSS) | ![Ionic](https://progress-bar.dev/25?title=Ionic) | ![Azure](https://progress-bar.dev/31.25?title=Azure) | ![SQL](https://progress-bar.dev/75?title=SQL) | ![NLTK](https://progress-bar.dev/12.5?title=NLTK) |
+| ![PHP Icon](https://img.icons8.com/ios/50/000000/php.png) **PHP**                     | ![Vue.js Icon](https://img.icons8.com/ios/50/000000/vue-js.png) **Vue.js**                | ![MariaDB Icon](https://img.icons8.com/ios/50/000000/mariadb.png) **MariaDB**              | ![Webpack Icon](https://img.icons8.com/ios/50/000000/webpack.png) **Webpack**            | ![Google Cloud Icon](https://img.icons8.com/ios/50/000000/google-cloud.png) **Google Cloud** | ![Terraform Icon](https://img.icons8.com/ios/50/000000/terraform.png) **Terraform** | ![Tableau Icon](https://img.icons8.com/ios/50/000000/tableau.png) **Tableau**             | ![Transformers Icon](https://img.icons8.com/ios/50/000000/transformers.png) **Transformers** |
+| ![PHP](https://progress-bar.dev/18.75?title=PHP) | ![Vue.js](https://progress-bar.dev/31.25?title=Vue.js) | ![MariaDB](https://progress-bar.dev/25?title=MariaDB) | ![Webpack](https://progress-bar.dev/31.25?title=Webpack) | ![Google Cloud](https://progress-bar.dev/25?title=GoogleCloud) | ![Terraform](https://progress-bar.dev/25?title=Terraform) | ![Tableau](https://progress-bar.dev/25?title=Tableau) | ![Transformers](https://progress-bar.dev/25?title=Transformers) |
+| ![TypeScript Icon](https://img.icons8.com/ios/50/000000/typescript.png) **TypeScript**     | ![Spring Boot Icon](https://img.icons8.com/ios/50/000000/spring-boot.png) **Spring Boot** | ![Firebase Icon](https://img.icons8.com/ios/50/000000/firebase.png) **Firebase**            | ![Tailwind CSS Icon](https://img.icons8.com/ios/50/000000/tailwindcss.png) **Tailwind CSS** | ![Jupyter Icon](https://img.icons8.com/ios/50/000000/jupyter.png) **Jupyter**             | ![Ansible Icon](https://img.icons8.com/ios/50/000000/ansible.png) **Ansible**           | ![R Icon](https://img.icons8.com/ios/50/000000/r.png) **R**                       |                                          |
+| ![TypeScript](https://progress-bar.dev/37.5?title=TypeScript) | ![Spring Boot](https://progress-bar.dev/60?title=SpringBoot) | ![Firebase](https://progress-bar.dev/31.25?title=Firebase) | ![Tailwind CSS](https://progress-bar.dev/25?title=TailwindCSS) | ![Jupyter](https://progress-bar.dev/50?title=Jupyter) | ![Ansible](https://progress-bar.dev/18.75?title=Ansible) | ![R](https://progress-bar.dev/31.25?title=R) |    |
+
+
+**Note**: The progress bars are dynamically generated from [progress-bar.dev](https://progress-bar.dev/) to visualize the percentage representation of each skill.
+
 </details>
 
 ---
