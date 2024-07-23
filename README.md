@@ -79,7 +79,7 @@
 <h2 align="left"> 🏆. Competitive Programming Achievements: </h2>
 <details> 
 <summary align="center" >• Attained notable achievements in competitive programming:</summary>
-   
+
 <b>CODEFORCES</b>
 <p>
 <img align="right" src="https://art.npanuhin.me/SVG/Codeforces/src/Codeforces.colored.min.svg" alt="Codeforces Logo" width="50"/>
@@ -113,7 +113,6 @@
 <b> ° Title: Expert </b><br>
 <b> ° Details: </b> Earned the Expert title by participating in various machine learning competitions<br> and contributing to the Kaggle community with insightful notebooks and discussions. <br>
 </p>
-
 </details>
 
 ###
@@ -139,13 +138,12 @@
 <p align="center">
   <h2 align="left">Anamika Kumari's Leetcode Stats:</h2>
     <div style="display: flex; justify-content: center; align-items: center;">
-       <a href="https://leetcode.com/Anamicca" target="_blank">
-      <img style="width: 50%;" src="https://leetcard.jacoblin.cool/anamicca?ext=heatmap" alt="LeetCard">
-      </a>
        <a href="https://codolio.com/profile/Anamicca2221" target="_blank">
-      <img style="width: 40%;" src="https://github.com/user-attachments/assets/e08315be-7ac2-499c-9c52-22cbc8143087" alt="Anamicca2221_codolio_card">
+      <img style="width: 22%;" src="https://github.com/user-attachments/assets/e08315be-7ac2-499c-9c52-22cbc8143087" alt="Anamicca2221_codolio_card">
        </a>
-    </div>
+         <a href="https://leetcode.com/Anamicca" target="_blank">
+      <img style="width: 60%;" src="https://leetcard.jacoblin.cool/anamicca?ext=heatmap" alt="LeetCard">
+      </a>
 </p>
 
 ###
