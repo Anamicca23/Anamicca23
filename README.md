@@ -138,12 +138,14 @@
 ###
 <p align="center">
   <h2 align="left">Anamika Kumari's Leetcode Stats:</h2>
-  <a href="https://leetcode.com/Anamicca" target="_blank">
     <div style="display: flex; justify-content: center; align-items: center;">
+       <a href="https://leetcode.com/Anamicca" target="_blank">
       <img style="width: 50%;" src="https://leetcard.jacoblin.cool/anamicca?ext=heatmap" alt="LeetCard">
+      </a>
+       <a href="https://codolio.com/profile/Anamicca2221" target="_blank">
       <img style="width: 40%;" src="https://github.com/user-attachments/assets/e08315be-7ac2-499c-9c52-22cbc8143087" alt="Anamicca2221_codolio_card">
+       </a>
     </div>
-  </a>
 </p>
 
 ###
