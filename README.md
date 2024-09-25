@@ -458,9 +458,13 @@
    <a href="https://platform.stratascratch.com/user/Anamicca_55" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Hackerearth&logo=&label=H&color=darkviolet&logoColor=white&labelColor=white&style=for-the-badge" height="35" alt="hackerearth logo"  />
   </a>
+   <br>
+  <a href="https://open.kattis.com/users/orchid" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Kattis&logo=&label=H&color=yellow&logoColor=black&labelColor=white&style=for-the-badge" height="35" alt="Kattis logo" />
+  </a>
    
 ###
-   
+  
 ---
 
 ###
