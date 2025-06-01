@@ -26,6 +26,7 @@
 </div>
 
 ---
+## About
 <h3 align="center">An Aspiring Data Analysts and Passionate Frontend Developer from India</h3><br>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
@@ -551,7 +552,8 @@
 
 ###
 
-   <h2 align="left">My Social Links:</h2>
+## Social Links
+
   <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" align="right" width="60"/>
   <a href="https://www.linkedin.com/in/anamika-k-93877323a/"><img src="https://i.pinimg.com/564x/03/5a/6b/035a6be81e71b377dcebdc6c6b9b84d9.jpg" width="45" /></a>
 <a href="https://www.youtube.com/channel/UC_amoXmmxSY9oDczDTXQ"><img src="https://i.pinimg.com/564x/c7/b3/f0/c7b3f0f21a1407791cfe955d1913bddb.jpg" width="50" /></a>
