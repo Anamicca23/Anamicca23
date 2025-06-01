@@ -81,30 +81,112 @@
 <h2 align="left">💻 Technical Skills:</h2>
 <details>
  <summary align = "center" >🕑 Technical Skills Overview: I've been working on:</summary>
-   
----
-| **Programming Languages**           | **Frameworks & Libraries**            | **Databases**                | **Web Development**            | **Mobile Development**            | **Tools & Platforms**            | **Data Science**                  | **Machine Learning & AI**         |
-| ----------------------------------- | ------------------------------------- | ---------------------------- | ------------------------------ | -------------------------------- | -------------------------------- | -------------------------------- | -------------------------------- |
-| ![JS Icon](https://img.icons8.com/ios/50/000000/javascript.png) **JavaScript**           | ![React Icon](https://img.icons8.com/ios/50/000000/react.png) **React**                  | ![MongoDB Icon](https://img.icons8.com/ios/50/000000/mongodb.png) **MongoDB**              | ![HTML/CSS Icon](https://img.icons8.com/ios/50/000000/html.png) **HTML/CSS**              | ![Swift Icon](https://img.icons8.com/ios/50/000000/swift.png) **Swift (iOS)**            | ![Git Icon](https://img.icons8.com/ios/50/000000/git.png) **Git**                    | ![Pandas Icon](https://img.icons8.com/ios/50/000000/pandas.png) **Pandas**               | ![TensorFlow Icon](https://img.icons8.com/ios/50/000000/tensorflow.png) **TensorFlow**  |
-| ![JavaScript](https://progress-bar.dev/95?title=JavaScript) | ![React](https://progress-bar.dev/85?title=React) | ![MongoDB](https://progress-bar.dev/75?title=MongoDB) | ![HTML/CSS](https://progress-bar.dev/95?title=HTML/CSS) | ![Swift](https://progress-bar.dev/50?title=Swift) | ![Git](https://progress-bar.dev/85?title=Git) | ![Pandas](https://progress-bar.dev/75?title=Pandas) | ![TensorFlow](https://progress-bar.dev/45?title=TensorFlow) |
-| ![Python Icon](https://img.icons8.com/ios/50/000000/python.png) **Python**               | ![Express Icon](https://img.icons8.com/ios/50/000000/express.png) **Express.js**            | ![MySQL Icon](https://img.icons8.com/ios/50/000000/mysql.png) **MySQL**                  | ![Bootstrap Icon](https://img.icons8.com/ios/50/000000/bootstrap.png) **Bootstrap**         | ![React Native Icon](https://img.icons8.com/ios/50/000000/react-native.png) **React Native** | ![Docker Icon](https://img.icons8.com/ios/50/000000/docker.png) **Docker**            | ![NumPy Icon](https://img.icons8.com/ios/50/000000/numpy.png) **NumPy**                 | ![PyTorch](https://img.icons8.com/ios/50/000000/pytorch.png) **PyTorch**                |
-| ![Python](https://progress-bar.dev/85?title=Python) | ![Express.js](https://progress-bar.dev/70?title=Express.js) | ![MySQL](https://progress-bar.dev/50?title=MySQL) | ![Bootstrap](https://progress-bar.dev/75?title=Bootstrap) | ![React Native](https://progress-bar.dev/75?title=ReactNative) | ![Docker](https://progress-bar.dev/50?title=Docker) | ![NumPy](https://progress-bar.dev/70?title=NumPy) | ![PyTorch](https://progress-bar.dev/37.5?title=PyTorch) |
-| ![Java Icon](https://img.icons8.com/ios/50/000000/java.png) **Java**                 | ![Node.js Icon](https://img.icons8.com/ios/50/000000/node-js.png) **Node.js**               | ![PostgreSQL Icon](https://img.icons8.com/ios/50/000000/postgresql.png) **PostgreSQL**     | ![jQuery Icon](https://img.icons8.com/ios/50/000000/jquery.png) **jQuery**                | ![Flutter Icon](https://img.icons8.com/ios/50/000000/flutter.png) **Flutter**             | ![Kubernetes Icon](https://img.icons8.com/ios/50/000000/kubernetes.png) **Kubernetes** | ![Scikit-Learn Icon](https://img.icons8.com/ios/50/000000/scikit-learn.png) **Scikit-Learn** | ![Keras Icon](https://img.icons8.com/ios/50/000000/keras.png) **Keras**                  |
-| ![Java](https://progress-bar.dev/75?title=Java) | ![Node.js](https://progress-bar.dev/60?title=Node.js) | ![PostgreSQL](https://progress-bar.dev/37.5?title=PostgreSQL) | ![jQuery](https://progress-bar.dev/50?title=jQuery) | ![Flutter](https://progress-bar.dev/37.5?title=Flutter) | ![Kubernetes](https://progress-bar.dev/25?title=Kubernetes) | ![Scikit-Learn](https://progress-bar.dev/50?title=Scikit-Learn) | ![Keras](https://progress-bar.dev/25?title=Keras) |
-| ![C++ Icon](https://img.icons8.com/ios/50/000000/c-plus-plus.png) **C++**                  | ![Django Icon](https://img.icons8.com/ios/50/000000/django.png) **Django**                | ![SQLite Icon](https://img.icons8.com/ios/50/000000/sqlite.png) **SQLite**             | ![REST APIs Icon](https://img.icons8.com/ios/50/000000/rest-api.png) **REST APIs**          | ![Kotlin Icon](https://img.icons8.com/ios/50/000000/kotlin.png) **Kotlin (Android)**    | ![Jenkins Icon](https://img.icons8.com/ios/50/000000/jenkins.png) **Jenkins**         | ![Matplotlib Icon](https://img.icons8.com/ios/50/000000/matplotlib.png) **Matplotlib**   | ![OpenCV Icon](https://img.icons8.com/ios/50/000000/opencv.png) **OpenCV**               |
-| ![C++](https://progress-bar.dev/50?title=C++) | ![Django](https://progress-bar.dev/45?title=Django) | ![SQLite](https://progress-bar.dev/12.5?title=SQLite) | ![REST APIs](https://progress-bar.dev/70?title=RESTAPIs) | ![Kotlin](https://progress-bar.dev/50?title=Kotlin) | ![Jenkins](https://progress-bar.dev/37.5?title=Jenkins) | ![Matplotlib](https://progress-bar.dev/45?title=Matplotlib) | ![OpenCV](https://progress-bar.dev/25?title=OpenCV) |
-| ![Swift Icon](https://img.icons8.com/ios/50/000000/swift.png) **Swift**                | ![Flask Icon](https://img.icons8.com/ios/50/000000/flask.png) **Flask**                 | ![Redis Icon](https://img.icons8.com/ios/50/000000/redis.png) **Redis**                | ![GraphQL Icon](https://img.icons8.com/ios/50/000000/graphql.png) **GraphQL**             | ![Objective-C Icon](https://img.icons8.com/ios/50/000000/objective-c.png) **Objective-C** | ![AWS Icon](https://img.icons8.com/ios/50/000000/amazon-web-services.png) **AWS**             | ![Seaborn Icon](https://img.icons8.com/ios/50/000000/seaborn.png) **Seaborn**            | ![spaCy Icon](https://img.icons8.com/ios/50/000000/spacy.png) **spaCy**                  |
-| ![Swift](https://progress-bar.dev/50?title=Swift) | ![Flask](https://progress-bar.dev/25?title=Flask) | ![Redis](https://progress-bar.dev/25?title=Redis) | ![GraphQL](https://progress-bar.dev/25?title=GraphQL) | ![Objective-C](https://progress-bar.dev/18.75?title=Objective-C) | ![AWS](https://progress-bar.dev/70?title=AWS) | ![Seaborn](https://progress-bar.dev/37.5?title=Seaborn) | ![spaCy](https://progress-bar.dev/18.75?title=spaCy) |
-| ![Ruby Icon](https://img.icons8.com/ios/50/000000/ruby.png) **Ruby**                  | ![Angular Icon](https://img.icons8.com/ios/50/000000/angular.png) **Angular**            | ![Cassandra Icon](https://img.icons8.com/ios/50/000000/cassandra.png) **Cassandra**         | ![SASS/SCSS Icon](https://img.icons8.com/ios/50/000000/sass.png) **SASS/SCSS**           | ![Ionic Icon](https://img.icons8.com/ios/50/000000/ionic.png) **Ionic**                | ![Azure Icon](https://img.icons8.com/ios/50/000000/azure.png) **Azure**              | ![SQL Icon](https://img.icons8.com/ios/50/000000/sql.png) **SQL**                  | ![NLTK Icon](https://img.icons8.com/ios/50/000000/nltk.png) **NLTK**                 |
-| ![Ruby](https://progress-bar.dev/25?title=Ruby) | ![Angular](https://progress-bar.dev/37.5?title=Angular) | ![Cassandra](https://progress-bar.dev/18.75?title=Cassandra) | ![SASS/SCSS](https://progress-bar.dev/25?title=SASS/SCSS) | ![Ionic](https://progress-bar.dev/25?title=Ionic) | ![Azure](https://progress-bar.dev/31.25?title=Azure) | ![SQL](https://progress-bar.dev/75?title=SQL) | ![NLTK](https://progress-bar.dev/12.5?title=NLTK) |
-| ![PHP Icon](https://img.icons8.com/ios/50/000000/php.png) **PHP**                     | ![Vue.js Icon](https://img.icons8.com/ios/50/000000/vue-js.png) **Vue.js**                | ![MariaDB Icon](https://img.icons8.com/ios/50/000000/mariadb.png) **MariaDB**              | ![Webpack Icon](https://img.icons8.com/ios/50/000000/webpack.png) **Webpack**            | ![Google Cloud Icon](https://img.icons8.com/ios/50/000000/google-cloud.png) **Google Cloud** | ![Terraform Icon](https://img.icons8.com/ios/50/000000/terraform.png) **Terraform** | ![Tableau Icon](https://img.icons8.com/ios/50/000000/tableau.png) **Tableau**             | ![Transformers Icon](https://img.icons8.com/ios/50/000000/transformers.png) **Transformers** |
-| ![PHP](https://progress-bar.dev/18.75?title=PHP) | ![Vue.js](https://progress-bar.dev/31.25?title=Vue.js) | ![MariaDB](https://progress-bar.dev/25?title=MariaDB) | ![Webpack](https://progress-bar.dev/31.25?title=Webpack) | ![Google Cloud](https://progress-bar.dev/25?title=GoogleCloud) | ![Terraform](https://progress-bar.dev/25?title=Terraform) | ![Tableau](https://progress-bar.dev/25?title=Tableau) | ![Transformers](https://progress-bar.dev/25?title=Transformers) |
-| ![TypeScript Icon](https://img.icons8.com/ios/50/000000/typescript.png) **TypeScript**     | ![Spring Boot Icon](https://img.icons8.com/ios/50/000000/spring-boot.png) **Spring Boot** | ![Firebase Icon](https://img.icons8.com/ios/50/000000/firebase.png) **Firebase**            | ![Tailwind CSS Icon](https://img.icons8.com/ios/50/000000/tailwindcss.png) **Tailwind CSS** | ![Jupyter Icon](https://img.icons8.com/ios/50/000000/jupyter.png) **Jupyter**             | ![Ansible Icon](https://img.icons8.com/ios/50/000000/ansible.png) **Ansible**           | ![R Icon](https://img.icons8.com/ios/50/000000/r.png) **R**                       |                                          |
-| ![TypeScript](https://progress-bar.dev/37.5?title=TypeScript) | ![Spring Boot](https://progress-bar.dev/60?title=SpringBoot) | ![Firebase](https://progress-bar.dev/31.25?title=Firebase) | ![Tailwind CSS](https://progress-bar.dev/25?title=TailwindCSS) | ![Jupyter](https://progress-bar.dev/50?title=Jupyter) | ![Ansible](https://progress-bar.dev/18.75?title=Ansible) | ![R](https://progress-bar.dev/31.25?title=R) |    |
-
-
-**Note**: The progress bars are dynamically generated from [progress-bar.dev](https://progress-bar.dev/) to visualize the percentage representation of each skill.
-
+<table>
+  <tr>
+    <td>
+      <b>🧠 Programming Languages</b><br>
+      <table>
+        <tr><td>Python</td><td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></td></tr>
+        <tr><td>JavaScript</td><td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></td></tr>
+        <tr><td>Java</td><td><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"></td></tr>
+        <tr><td>C++</td><td><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></td></tr>
+        <tr><td>Ruby</td><td><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"></td></tr>
+        <tr><td>TypeScript</td><td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></td></tr>
+        <tr><td>PHP</td><td><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"></td></tr>
+        <tr><td>R</td><td><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"></td></tr>
+      </table>
+    </td>
+    <td>
+      <b>🧩 Frameworks & Libraries</b><br>
+      <table>
+        <tr><td>React</td><td><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"></td></tr>
+        <tr><td>Express.js</td><td><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"></td></tr>
+        <tr><td>Node.js</td><td><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"></td></tr>
+        <tr><td>Django</td><td><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"></td></tr>
+        <tr><td>Flask</td><td><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"></td></tr>
+        <tr><td>Vue.js</td><td><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js"></td></tr>
+        <tr><td>Angular</td><td><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"></td></tr>
+        <tr><td>Spring Boot</td><td><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"></td></tr>
+      </table>
+    </td>
+    <td>
+      <b>🗄️ Databases</b><br>
+      <table>
+        <tr><td>MySQL</td><td><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></td></tr>
+        <tr><td>MongoDB</td><td><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"></td></tr>
+        <tr><td>PostgreSQL</td><td><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></td></tr>
+        <tr><td>SQLite</td><td><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"></td></tr>
+        <tr><td>Firebase</td><td><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"></td></tr>
+        <tr><td>Redis</td><td><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"></td></tr>
+        <tr><td>Cassandra</td><td><img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white" alt="Cassandra"></td></tr>
+        <tr><td>MariaDB</td><td><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"></td></tr>
+      </table>
+    </td>
+    <td>
+      <b>🌐 Web Development</b><br>
+      <table>
+        <tr><td>HTML5</td><td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></td></tr>
+        <tr><td>CSS3</td><td><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></td></tr>
+        <tr><td>Bootstrap</td><td><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"></td></tr>
+        <tr><td>Tailwind CSS</td><td><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"></td></tr>
+        <tr><td>Sass</td><td><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"></td></tr>
+        <tr><td>jQuery</td><td><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"></td></tr>
+        <tr><td>Next.js</td><td><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"></td></tr>
+        <tr><td>Gatsby</td><td><img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" alt="Gatsby"></td></tr>
+      </table>
+    </td>
+    <td>
+      <b>📱 Mobile Development</b><br>
+      <table>
+           <tr><td>Swift (iOS)</td><td><img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"></td></tr>
+           <tr><td>Kotlin (Android)</td><td><img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"></td></tr>
+           <tr><td>React Native</td><td><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"></td></tr>
+           <tr><td>Flutter</td><td><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"></td></tr>
+           <tr><td>Objective-C</td><td><img src="https://img.shields.io/badge/Objective--C-438eff?style=for-the-badge&logo=objectivec&logoColor=white" alt="Objective-C"></td></tr>
+           <tr><td>Ionic</td><td><img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic"></td></tr>
+      </table>
+    </td>
+    <td>
+      <b>⚙️ Tools & Platforms</b><br>
+      <table>
+        <tr><td>Git</td><td><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></td></tr>
+        <tr><td>Docker</td><td><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></td></tr>
+        <tr><td>Kubernetes</td><td><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"></td></tr>
+        <tr><td>Jenkins</td><td><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"></td></tr>
+        <tr><td>AWS</td><td><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"></td></tr>
+        <tr><td>Azure</td><td><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"></td></tr>
+        <tr><td>Google Cloud</td><td><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"></td></tr>
+        <tr><td>Terraform</td><td><img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"></td></tr>
+      </table>
+    </td>
+    <td>
+      <b>📊 Data Science</b><br>
+      <table>
+        <tr><td>Pandas</td><td><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></td></tr>
+        <tr><td>NumPy</td><td><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"></td></tr>
+        <tr><td>Matplotlib</td><td><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"></td></tr>
+        <tr><td>Seaborn</td><td><img src="https://img.shields.io/badge/Seaborn-0D6ABF?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"></td></tr>
+        <tr><td>Tableau</td><td><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"></td></tr>
+        <tr><td>Jupyter</td><td><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"></td></tr>
+        <tr><td>R</td><td><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"></td></tr>
+        <tr><td>SQL</td><td><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL"></td></tr>
+      </table>
+    </td>
+    <td>
+      <b>🤖 Machine Learning & AI</b><br>
+      <table>
+        <tr><td>TensorFlow</td><td><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"></td></tr>
+        <tr><td>PyTorch</td><td><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"></td></tr>
+        <tr><td>Keras</td><td><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"></td></tr>
+        <tr><td>Scikit-Learn</td><td><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"></td></tr>
+        <tr><td>OpenCV</td><td><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"></td></tr>
+        <tr><td>spaCy</td><td><img src="https://img.shields.io/badge/spaCy-09A3AF?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy"></td></tr>
+        <tr><td>NLTK</td><td><img src="https://img.shields.io/badge/NLTK-4B2E83?style=for-the-badge&logo=nltk&logoColor=white" alt="NLTK"></td></tr>
+        <tr><td>Transformers (Hugging Face)</td><td><img src="https://img.shields.io/badge/Transformers-FF6B01?style=for-the-badge&logo=huggingface&logoColor=white" alt="Transformers"></td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
 </details>
 
 ---
@@ -504,3 +586,21 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%" />
 </p>
+
+
+---
+
+<div align="center">
+
+<a href="#top" title="Return to Top" style="text-decoration:none; margin: 0 10px;">
+  <img src="https://img.shields.io/badge/⬆️_Return-1E90FF?style=for-the-badge&logo=arrow-up&logoColor=white" alt="Return to Top" />
+</a>
+<a href="#about" title="About Section" style="text-decoration:none; margin: 0 10px;">
+  <img src="https://img.shields.io/badge/ℹ️_About-0078D7?style=for-the-badge&logo=info&logoColor=white" alt="About" />
+</a>
+<a href="#social-links" title="Social Links" style="text-decoration:none; margin: 0 10px;">
+  <img src="https://img.shields.io/badge/🌐_Social-28A745?style=for-the-badge&logo=earth&logoColor=white" alt="Social Links" />
+</a>
+
+</div>
+
