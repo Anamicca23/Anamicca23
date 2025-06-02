@@ -1,11 +1,11 @@
-<image align = "right" width="1200" height="350" src= "https://i.pinimg.com/originals/5a/9f/69/5a9f698c13cbb063db41d3c56c718742.gif" />
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Anamika%20Kumari&textBg=false&descAlign=49&descAlignY=47" width="100%" />
 </p>
 <div align="center">
   <img alt="GIF" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&fontSize=28&lines=HI!+Anamika+Kumari+Here🖐️.;I+am+a+avid+Developer💻.;I+am+a+Data+Analyst📈.;I+am+a+Competitive+Programmer📊.;I+am+a+Data+Science+Enthusiast✨.;I+am+a+Machine+Learning+Enthusisast✨.;I+am+a+AI+Enthusiast✨.;"/>
 </div>
-
+<image align = "right" width="1200" height="350" src= "https://i.pinimg.com/originals/5a/9f/69/5a9f698c13cbb063db41d3c56c718742.gif" />
+  
 ---
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Anamicca23&row=1&column=9" alt="Anamicca23" /></a></p>
