@@ -589,9 +589,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%" />
 </p>
 
-
----
-
 <div align="center">
 
 <a href="#top" title="Return to Top" style="text-decoration:none; margin: 0 10px;">
