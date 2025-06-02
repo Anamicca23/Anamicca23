@@ -1,4 +1,7 @@
 <image align = "right" width="1200" height="350" src= "https://i.pinimg.com/originals/5a/9f/69/5a9f698c13cbb063db41d3c56c718742.gif" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=black&textBg=false&descAlign=49&descAlignY=47" width="100%" />
+</p>
 
 ---
 
@@ -585,9 +588,7 @@
 
 ###
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%" />
-</p>
+
 
 <div align="center">
 
@@ -603,3 +604,6 @@
 
 </div>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" width="100%" />
+</p>
