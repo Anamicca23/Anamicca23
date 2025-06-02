@@ -29,7 +29,10 @@
 ###
 
 ## About
-<h3 align="center">An Aspiring Data Analysts and Passionate Frontend Developer from India</h3><br>
+<div align="center">
+  <img alt="Typing Animation" src="https://readme-typing-svg.herokuapp.com?color=000000&fontSize=28&width=700&lines=An+Aspiring+Data+Analyst+from+India;A+Passionate+Frontend+Developer+Crafting+User+Experiences"/>
+</div>
+
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 
@@ -46,7 +49,10 @@
   
 - 🛠️ **Proficient** in using modern development tools and platforms, including Git, Docker, and cloud services.
 
-- 📫 Reach me at **Anamikaaca0306@gmail.com**
+- 📫 Reach me at  <div align="left">
+  <img alt="Typing Animation" src="https://readme-typing-svg.herokuapp.com?color=000000&fontSize=28&width=700&lines=👉+Anamikaaca0306@gmail.com"/>
+</div>
+
 
 ---
 
