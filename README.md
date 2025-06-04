@@ -4,7 +4,7 @@
 <div align="center">
   <img alt="GIF" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&fontSize=28&lines=HI!+Anamika+Kumari+Here🖐️.;I+am+a+avid+Developer💻.;I+am+a+Data+Analyst📈.;I+am+a+Competitive+Programmer📊.;I+am+a+Data+Science+Enthusiast✨.;I+am+a+Machine+Learning+Enthusisast✨.;I+am+a+AI+Enthusiast✨.;"/>
 </div>
-<image align = "right" width="1200" height="350" src= "https://i.pinimg.com/originals/5a/9f/69/5a9f698c13cbb063db41d3c56c718742.gif" />
+<image align = "right" width="1200" height="350" src= "https://i.pinimg.com/originals/dd/c0/13/ddc013635f19439384eca06eb076e0e4.gif" />
   
 ---
 
@@ -33,7 +33,7 @@
   <img alt="Typing Animation" src="https://readme-typing-svg.herokuapp.com?color=00008B&fontSize=28&width=700&lines=An+Aspiring+Data+Analyst+from+India;A+Passionate+Frontend+Developer+Crafting+User+Experiences"/>
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/a9/ef/05/a9ef0582127f7086bb5153a86b131a26.gif" />
 
 
 
