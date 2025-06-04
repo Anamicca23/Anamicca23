@@ -11,20 +11,6 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Anamicca23&row=1&column=9" alt="Anamicca23" /></a></p>
 
 ---
-
-###
-
-[![](https://img.shields.io/badge/📄resume-gray?&style=for-the-badge)](https://knlnks.github.io/resume/.pdf)
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anamika-k-93877323a/)
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anamikaaca0306@gmail.com)
-[![](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.com/@anamicca56)
-[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anamicca23)
-[![](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/anamicca5/)
-[![](https://img.shields.io/static/v1?message=twitch.tv&logo=twitch&label=&color=7F00FF&logoColor=white&labelColor=&style=for-the-badge)](https://www.twitch.tv/anamicca2221/)
-[![](https://img.shields.io/static/v1?message=X&logo=x&label=&color=black&logoColor=white&labelColor=&style=for-the-badge)](https://x.com/Anamicca2221)
-###
-
----
    
 ###
 
@@ -52,6 +38,18 @@
 - 📫 Reach me at  <div align="center">
   <img alt="Typing Animation" src="https://readme-typing-svg.herokuapp.com?color=00008B&fontSize=28&width=700&lines=👉+Anamikaaca0306@gmail.com"/>
 </div>
+
+###
+
+[![](https://img.shields.io/badge/📄resume-gray?&style=for-the-badge)](https://knlnks.github.io/resume/.pdf)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anamika-k-93877323a/)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anamikaaca0306@gmail.com)
+[![](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.com/@anamicca56)
+[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anamicca23)
+[![](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/anamicca5/)
+[![](https://img.shields.io/static/v1?message=twitch.tv&logo=twitch&label=&color=7F00FF&logoColor=white&labelColor=&style=for-the-badge)](https://www.twitch.tv/anamicca2221/)
+[![](https://img.shields.io/static/v1?message=X&logo=x&label=&color=black&logoColor=white&labelColor=&style=for-the-badge)](https://x.com/Anamicca2221)
+###
 
 ---
 
